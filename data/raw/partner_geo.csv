@@ -1,0 +1,15 @@
+partner_id,lat,lng,is_approximate,note
+SCA33,13.0450,80.2500,1,Teynampet Chennai locality level
+SCA16,12.9792,77.5913,1,Dr Ambedkar Veedhi Bengaluru locality level
+SCA17,10.5276,76.2144,1,Thrissur city level
+SCA18,8.4855,76.9492,1,East Fort Thiruvananthapuram locality level
+SCA01,16.4800,80.6000,1,Tadepalli Amaravathi area level
+SCA02,16.5062,80.6480,1,Vijayawada city level
+RRB16,11.6643,78.1460,1,Salem city level
+RRB09,11.0510,76.0711,1,Malappuram city level
+RRB12,12.2958,76.6394,1,Mysuru city level
+RRB14,16.3067,80.4365,1,Guntur city level
+PSB01,13.0600,80.2500,1,Anna Salai Chennai locality level
+PSB07,13.0540,80.2640,1,Royapettah Chennai locality level
+PSB03,12.9650,77.5850,1,JC Road Bengaluru locality level
+CSO02,16.5062,80.6480,1,Vijayawada city level

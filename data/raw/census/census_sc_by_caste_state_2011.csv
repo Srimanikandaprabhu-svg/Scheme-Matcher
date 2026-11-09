@@ -1,0 +1,874 @@
+state_code,area_name,sc_code,sc_name,residence,persons,males,females
+28,Andhra Pradesh,000,All Schedule Castes,Total,13878078,6913047,6965031
+28,Andhra Pradesh,000,All Schedule Castes,Rural,10846333,5417474,5428859
+28,Andhra Pradesh,000,All Schedule Castes,Urban,3031745,1495573,1536172
+28,Andhra Pradesh,001,Adi Andhra,Total,206524,102792,103732
+28,Andhra Pradesh,001,Adi Andhra,Rural,150532,75329,75203
+28,Andhra Pradesh,001,Adi Andhra,Urban,55992,27463,28529
+28,Andhra Pradesh,002,Adi Dravida,Total,266089,132804,133285
+28,Andhra Pradesh,002,Adi Dravida,Rural,224127,112234,111893
+28,Andhra Pradesh,002,Adi Dravida,Urban,41962,20570,21392
+28,Andhra Pradesh,003,Anamuk,Total,43,27,16
+28,Andhra Pradesh,003,Anamuk,Rural,9,6,3
+28,Andhra Pradesh,003,Anamuk,Urban,34,21,13
+28,Andhra Pradesh,004,Aray Mala,Total,3393,1720,1673
+28,Andhra Pradesh,004,Aray Mala,Rural,1534,779,755
+28,Andhra Pradesh,004,Aray Mala,Urban,1859,941,918
+28,Andhra Pradesh,005,Arundhatiya,Total,30190,15112,15078
+28,Andhra Pradesh,005,Arundhatiya,Rural,27113,13590,13523
+28,Andhra Pradesh,005,Arundhatiya,Urban,3077,1522,1555
+28,Andhra Pradesh,006,Arwa Mala,Total,13485,6536,6949
+28,Andhra Pradesh,006,Arwa Mala,Rural,3571,1730,1841
+28,Andhra Pradesh,006,Arwa Mala,Urban,9914,4806,5108
+28,Andhra Pradesh,007,Bariki,Total,1394,701,693
+28,Andhra Pradesh,007,Bariki,Rural,905,461,444
+28,Andhra Pradesh,007,Bariki,Urban,489,240,249
+28,Andhra Pradesh,008,Bavuri,Total,890,438,452
+28,Andhra Pradesh,008,Bavuri,Rural,664,316,348
+28,Andhra Pradesh,008,Bavuri,Urban,226,122,104
+28,Andhra Pradesh,009,"Beda (Budga) Jangam (in the districts of Hyderabad, Ranga Reddy, Mahbubnagar, Adilabad, Nizamabad, Medak, Karimnagar, Warangal, Khammam and Nalgonda)",Total,111710,56290,55420
+28,Andhra Pradesh,009,"Beda (Budga) Jangam (in the districts of Hyderabad, Ranga Reddy, Mahbubnagar, Adilabad, Nizamabad, Medak, Karimnagar, Warangal, Khammam and Nalgonda)",Rural,77773,39317,38456
+28,Andhra Pradesh,009,"Beda (Budga) Jangam (in the districts of Hyderabad, Ranga Reddy, Mahbubnagar, Adilabad, Nizamabad, Medak, Karimnagar, Warangal, Khammam and Nalgonda)",Urban,33937,16973,16964
+28,Andhra Pradesh,010,Bindla,Total,14815,7337,7478
+28,Andhra Pradesh,010,Bindla,Rural,12063,5961,6102
+28,Andhra Pradesh,010,Bindla,Urban,2752,1376,1376
+28,Andhra Pradesh,011,"Byagara, Byagari",Total,9840,4885,4955
+28,Andhra Pradesh,011,"Byagara, Byagari",Rural,9244,4576,4668
+28,Andhra Pradesh,011,"Byagara, Byagari",Urban,596,309,287
+28,Andhra Pradesh,012,Chachati,Total,1466,734,732
+28,Andhra Pradesh,012,Chachati,Rural,1344,679,665
+28,Andhra Pradesh,012,Chachati,Urban,122,55,67
+28,Andhra Pradesh,013,Chalavadi,Total,338,165,173
+28,Andhra Pradesh,013,Chalavadi,Rural,258,126,132
+28,Andhra Pradesh,013,Chalavadi,Urban,80,39,41
+28,Andhra Pradesh,014,"Chamar, Mochi, Muchi, Chamar-Ravidas, Chamar-Rohidas",Total,20380,10305,10075
+28,Andhra Pradesh,014,"Chamar, Mochi, Muchi, Chamar-Ravidas, Chamar-Rohidas",Rural,3852,1924,1928
+28,Andhra Pradesh,014,"Chamar, Mochi, Muchi, Chamar-Ravidas, Chamar-Rohidas",Urban,16528,8381,8147
+28,Andhra Pradesh,015,Chambhar,Total,674,344,330
+28,Andhra Pradesh,015,Chambhar,Rural,324,156,168
+28,Andhra Pradesh,015,Chambhar,Urban,350,188,162
+28,Andhra Pradesh,016,Chandala,Total,76,42,34
+28,Andhra Pradesh,016,Chandala,Rural,19,12,7
+28,Andhra Pradesh,016,Chandala,Urban,57,30,27
+28,Andhra Pradesh,017,"Dakkal, Dokkalwar",Total,3820,1821,1999
+28,Andhra Pradesh,017,"Dakkal, Dokkalwar",Rural,3191,1528,1663
+28,Andhra Pradesh,017,"Dakkal, Dokkalwar",Urban,629,293,336
+28,Andhra Pradesh,018,Dandasi,Total,5351,2539,2812
+28,Andhra Pradesh,018,Dandasi,Rural,4947,2351,2596
+28,Andhra Pradesh,018,Dandasi,Urban,404,188,216
+28,Andhra Pradesh,019,Dhor,Total,2229,1134,1095
+28,Andhra Pradesh,019,Dhor,Rural,384,196,188
+28,Andhra Pradesh,019,Dhor,Urban,1845,938,907
+28,Andhra Pradesh,020,"Dom, Dombara, Paidi, Pano",Total,39169,19130,20039
+28,Andhra Pradesh,020,"Dom, Dombara, Paidi, Pano",Rural,34157,16693,17464
+28,Andhra Pradesh,020,"Dom, Dombara, Paidi, Pano",Urban,5012,2437,2575
+28,Andhra Pradesh,021,"Ellamalawar, Yellammalawandlu",Total,1382,680,702
+28,Andhra Pradesh,021,"Ellamalawar, Yellammalawandlu",Rural,908,440,468
+28,Andhra Pradesh,021,"Ellamalawar, Yellammalawandlu",Urban,474,240,234
+28,Andhra Pradesh,022,"Ghasi,  Haddi,  Relli Chachandi",Total,3093,1489,1604
+28,Andhra Pradesh,022,"Ghasi,  Haddi,  Relli Chachandi",Rural,714,348,366
+28,Andhra Pradesh,022,"Ghasi,  Haddi,  Relli Chachandi",Urban,2379,1141,1238
+28,Andhra Pradesh,023,"Godagali, Godagula (in the districts of Srikakulam, Vizianagaram and Vishakhapatanam)",Total,2782,1307,1475
+28,Andhra Pradesh,023,"Godagali, Godagula (in the districts of Srikakulam, Vizianagaram and Vishakhapatanam)",Rural,1198,560,638
+28,Andhra Pradesh,023,"Godagali, Godagula (in the districts of Srikakulam, Vizianagaram and Vishakhapatanam)",Urban,1584,747,837
+28,Andhra Pradesh,024,Godari,Total,1020,513,507
+28,Andhra Pradesh,024,Godari,Rural,162,77,85
+28,Andhra Pradesh,024,Godari,Urban,858,436,422
+28,Andhra Pradesh,025,Gosangi,Total,23401,11395,12006
+28,Andhra Pradesh,025,Gosangi,Rural,18881,9219,9662
+28,Andhra Pradesh,025,Gosangi,Urban,4520,2176,2344
+28,Andhra Pradesh,026,Holeya,Total,442,227,215
+28,Andhra Pradesh,026,Holeya,Rural,191,92,99
+28,Andhra Pradesh,026,Holeya,Urban,251,135,116
+28,Andhra Pradesh,027,Holeya Dasari,Total,11041,5546,5495
+28,Andhra Pradesh,027,Holeya Dasari,Rural,6976,3560,3416
+28,Andhra Pradesh,027,Holeya Dasari,Urban,4065,1986,2079
+28,Andhra Pradesh,028,Jaggali,Total,3120,1538,1582
+28,Andhra Pradesh,028,Jaggali,Rural,2370,1183,1187
+28,Andhra Pradesh,028,Jaggali,Urban,750,355,395
+28,Andhra Pradesh,029,Jambuvulu,Total,6785,3356,3429
+28,Andhra Pradesh,029,Jambuvulu,Rural,6459,3194,3265
+28,Andhra Pradesh,029,Jambuvulu,Urban,326,162,164
+28,Andhra Pradesh,030,"Kolupulavandlu, Pambada, Pambanda, Pambala",Total,1101,541,560
+28,Andhra Pradesh,030,"Kolupulavandlu, Pambada, Pambanda, Pambala",Rural,868,423,445
+28,Andhra Pradesh,030,"Kolupulavandlu, Pambada, Pambanda, Pambala",Urban,233,118,115
+28,Andhra Pradesh,031,"Madasi Kuruva, Madari Kuruva",Total,6843,3324,3519
+28,Andhra Pradesh,031,"Madasi Kuruva, Madari Kuruva",Rural,5141,2478,2663
+28,Andhra Pradesh,031,"Madasi Kuruva, Madari Kuruva",Urban,1702,846,856
+28,Andhra Pradesh,032,Madiga,Total,6702609,3349277,3353332
+28,Andhra Pradesh,032,Madiga,Rural,5387439,2698904,2688535
+28,Andhra Pradesh,032,Madiga,Urban,1315170,650373,664797
+28,Andhra Pradesh,033,"Madiga Dasu, Mashteen",Total,7868,3927,3941
+28,Andhra Pradesh,033,"Madiga Dasu, Mashteen",Rural,5386,2654,2732
+28,Andhra Pradesh,033,"Madiga Dasu, Mashteen",Urban,2482,1273,1209
+28,Andhra Pradesh,034,Mahar,Total,36238,18313,17925
+28,Andhra Pradesh,034,Mahar,Rural,26602,13373,13229
+28,Andhra Pradesh,034,Mahar,Urban,9636,4940,4696
+28,Andhra Pradesh,035,"Mala, Mala Ayawaru",Total,5570244,2765023,2805221
+28,Andhra Pradesh,035,"Mala, Mala Ayawaru",Rural,4285948,2133602,2152346
+28,Andhra Pradesh,035,"Mala, Mala Ayawaru",Urban,1284296,631421,652875
+28,Andhra Pradesh,036,Mala Dasari,Total,16341,8009,8332
+28,Andhra Pradesh,036,Mala Dasari,Rural,12358,6047,6311
+28,Andhra Pradesh,036,Mala Dasari,Urban,3983,1962,2021
+28,Andhra Pradesh,037,Mala Dasu,Total,11754,5886,5868
+28,Andhra Pradesh,037,Mala Dasu,Rural,8436,4250,4186
+28,Andhra Pradesh,037,Mala Dasu,Urban,3318,1636,1682
+28,Andhra Pradesh,038,Mala Hannai,Total,99,50,49
+28,Andhra Pradesh,038,Mala Hannai,Rural,69,36,33
+28,Andhra Pradesh,038,Mala Hannai,Urban,30,14,16
+28,Andhra Pradesh,039,Malajangam,Total,3484,1677,1807
+28,Andhra Pradesh,039,Malajangam,Rural,2131,970,1161
+28,Andhra Pradesh,039,Malajangam,Urban,1353,707,646
+28,Andhra Pradesh,040,Mala Masti,Total,783,393,390
+28,Andhra Pradesh,040,Mala Masti,Rural,653,321,332
+28,Andhra Pradesh,040,Mala Masti,Urban,130,72,58
+28,Andhra Pradesh,041,"Mala Sale, Netkani",Total,133247,66802,66445
+28,Andhra Pradesh,041,"Mala Sale, Netkani",Rural,116477,58306,58171
+28,Andhra Pradesh,041,"Mala Sale, Netkani",Urban,16770,8496,8274
+28,Andhra Pradesh,042,Mala Sanyasi,Total,192,97,95
+28,Andhra Pradesh,042,Mala Sanyasi,Rural,182,90,92
+28,Andhra Pradesh,042,Mala Sanyasi,Urban,10,7,3
+28,Andhra Pradesh,043,Mang,Total,13365,6740,6625
+28,Andhra Pradesh,043,Mang,Rural,11667,5922,5745
+28,Andhra Pradesh,043,Mang,Urban,1698,818,880
+28,Andhra Pradesh,044,Mang Garodi,Total,1397,699,698
+28,Andhra Pradesh,044,Mang Garodi,Rural,111,62,49
+28,Andhra Pradesh,044,Mang Garodi,Urban,1286,637,649
+28,Andhra Pradesh,045,Manne,Total,40381,19729,20652
+28,Andhra Pradesh,045,Manne,Rural,30798,14948,15850
+28,Andhra Pradesh,045,Manne,Urban,9583,4781,4802
+28,Andhra Pradesh,046,Mashti,Total,1455,734,721
+28,Andhra Pradesh,046,Mashti,Rural,1284,655,629
+28,Andhra Pradesh,046,Mashti,Urban,171,79,92
+28,Andhra Pradesh,047,Matangi,Total,730,372,358
+28,Andhra Pradesh,047,Matangi,Rural,322,157,165
+28,Andhra Pradesh,047,Matangi,Urban,408,215,193
+28,Andhra Pradesh,048,Mehtar,Total,7037,3528,3509
+28,Andhra Pradesh,048,Mehtar,Rural,534,279,255
+28,Andhra Pradesh,048,Mehtar,Urban,6503,3249,3254
+28,Andhra Pradesh,049,Mitha Ayyalvar,Total,3143,1527,1616
+28,Andhra Pradesh,049,Mitha Ayyalvar,Rural,2031,986,1045
+28,Andhra Pradesh,049,Mitha Ayyalvar,Urban,1112,541,571
+28,Andhra Pradesh,050,Mundala,Total,622,311,311
+28,Andhra Pradesh,050,Mundala,Rural,443,216,227
+28,Andhra Pradesh,050,Mundala,Urban,179,95,84
+28,Andhra Pradesh,051,"Paky, Moti, Thoti",Total,5456,2615,2841
+28,Andhra Pradesh,051,"Paky, Moti, Thoti",Rural,1313,627,686
+28,Andhra Pradesh,051,"Paky, Moti, Thoti",Urban,4143,1988,2155
+28,Andhra Pradesh,052,Pamidi,Total,2807,1371,1436
+28,Andhra Pradesh,052,Pamidi,Rural,2661,1298,1363
+28,Andhra Pradesh,052,Pamidi,Urban,146,73,73
+28,Andhra Pradesh,053,"Panchama, Pariah",Total,988,497,491
+28,Andhra Pradesh,053,"Panchama, Pariah",Rural,800,404,396
+28,Andhra Pradesh,053,"Panchama, Pariah",Urban,188,93,95
+28,Andhra Pradesh,054,Relli,Total,135608,66841,68767
+28,Andhra Pradesh,054,Relli,Rural,57667,28715,28952
+28,Andhra Pradesh,054,Relli,Urban,77941,38126,39815
+28,Andhra Pradesh,055,Samagara,Total,1129,594,535
+28,Andhra Pradesh,055,Samagara,Rural,239,131,108
+28,Andhra Pradesh,055,Samagara,Urban,890,463,427
+28,Andhra Pradesh,056,Samban,Total,3754,1932,1822
+28,Andhra Pradesh,056,Samban,Rural,3444,1766,1678
+28,Andhra Pradesh,056,Samban,Urban,310,166,144
+28,Andhra Pradesh,057,Sapru,Total,466,235,231
+28,Andhra Pradesh,057,Sapru,Rural,422,211,211
+28,Andhra Pradesh,057,Sapru,Urban,44,24,20
+28,Andhra Pradesh,058,"Sindhollu, Chindollu",Total,3931,1991,1940
+28,Andhra Pradesh,058,"Sindhollu, Chindollu",Rural,3412,1713,1699
+28,Andhra Pradesh,058,"Sindhollu, Chindollu",Urban,519,278,241
+28,Andhra Pradesh,059,Yatala,Total,1104,521,583
+28,Andhra Pradesh,059,Yatala,Rural,905,423,482
+28,Andhra Pradesh,059,Yatala,Urban,199,98,101
+28,Andhra Pradesh,060,Valluvan,Total,809,400,409
+28,Andhra Pradesh,060,Valluvan,Rural,309,153,156
+28,Andhra Pradesh,060,Valluvan,Urban,500,247,253
+29,Karnataka,000,All Schedule Castes,Total,10474992,5264545,5210447
+29,Karnataka,000,All Schedule Castes,Rural,7495763,3771506,3724257
+29,Karnataka,000,All Schedule Castes,Urban,2979229,1493039,1486190
+29,Karnataka,001,Adi Andhra,Total,26486,13373,13113
+29,Karnataka,001,Adi Andhra,Rural,3142,1614,1528
+29,Karnataka,001,Adi Andhra,Urban,23344,11759,11585
+29,Karnataka,002,Adi Dravida,Total,795620,395527,400093
+29,Karnataka,002,Adi Dravida,Rural,305241,151475,153766
+29,Karnataka,002,Adi Dravida,Urban,490379,244052,246327
+29,Karnataka,003,Adi Karnataka,Total,2920942,1461917,1459025
+29,Karnataka,003,Adi Karnataka,Rural,2177613,1089347,1088266
+29,Karnataka,003,Adi Karnataka,Urban,743329,372570,370759
+29,Karnataka,004,Adiya (in Coorg district)a,Total,811,395,416
+29,Karnataka,004,Adiya (in Coorg district)a,Rural,810,394,416
+29,Karnataka,004,Adiya (in Coorg district)a,Urban,1,1,0
+29,Karnataka,005,Ager,Total,6642,3242,3400
+29,Karnataka,005,Ager,Rural,4196,2084,2112
+29,Karnataka,005,Ager,Urban,2446,1158,1288
+29,Karnataka,006,Ajila,Total,2448,1227,1221
+29,Karnataka,006,Ajila,Rural,2225,1120,1105
+29,Karnataka,006,Ajila,Urban,223,107,116
+29,Karnataka,007,Anamuk,Total,75,39,36
+29,Karnataka,007,Anamuk,Rural,2,1,1
+29,Karnataka,007,Anamuk,Urban,73,38,35
+29,Karnataka,008,Aray Mala,Total,94,55,39
+29,Karnataka,008,Aray Mala,Rural,53,32,21
+29,Karnataka,008,Aray Mala,Urban,41,23,18
+29,Karnataka,009,Arunthathiyar,Total,2385,1219,1166
+29,Karnataka,009,Arunthathiyar,Rural,633,320,313
+29,Karnataka,009,Arunthathiyar,Urban,1752,899,853
+29,Karnataka,010,Arwa Mala,Total,260,139,121
+29,Karnataka,010,Arwa Mala,Rural,162,85,77
+29,Karnataka,010,Arwa Mala,Urban,98,54,44
+29,Karnataka,011,Baira,Total,4049,2022,2027
+29,Karnataka,011,Baira,Rural,3470,1744,1726
+29,Karnataka,011,Baira,Urban,579,278,301
+29,Karnataka,012,Bakad,Total,808,377,431
+29,Karnataka,012,Bakad,Rural,760,356,404
+29,Karnataka,012,Bakad,Urban,48,21,27
+29,Karnataka,013,"Bant (in Belgaum,  Bijapur,  Dharwar and North Kanara districts)b",Total,1390,667,723
+29,Karnataka,013,"Bant (in Belgaum,  Bijapur,  Dharwar and North Kanara districts)b",Rural,97,48,49
+29,Karnataka,013,"Bant (in Belgaum,  Bijapur,  Dharwar and North Kanara districts)b",Urban,1293,619,674
+29,Karnataka,014,Bakuda,Total,1566,802,764
+29,Karnataka,014,Bakuda,Rural,620,329,291
+29,Karnataka,014,Bakuda,Urban,946,473,473
+29,Karnataka,015,Balagai,Total,2180,1119,1061
+29,Karnataka,015,Balagai,Rural,901,449,452
+29,Karnataka,015,Balagai,Urban,1279,670,609
+29,Karnataka,016,Bandi,Total,678,364,314
+29,Karnataka,016,Bandi,Rural,259,135,124
+29,Karnataka,016,Bandi,Urban,419,229,190
+29,Karnataka,017,"Banjara, Lambani, Lambada, Lambadi, Lamani, Sugali, Sukali",Total,1267036,650815,616221
+29,Karnataka,017,"Banjara, Lambani, Lambada, Lambadi, Lamani, Sugali, Sukali",Rural,1102062,564681,537381
+29,Karnataka,017,"Banjara, Lambani, Lambada, Lambadi, Lamani, Sugali, Sukali",Urban,164974,86134,78840
+29,Karnataka,018,Bathada,Total,2632,1260,1372
+29,Karnataka,018,Bathada,Rural,1826,868,958
+29,Karnataka,018,Bathada,Urban,806,392,414
+29,Karnataka,019,"Beda Jangam, Budga Jangam",Total,117164,59372,57792
+29,Karnataka,019,"Beda Jangam, Budga Jangam",Rural,84588,42860,41728
+29,Karnataka,019,"Beda Jangam, Budga Jangam",Urban,32576,16512,16064
+29,Karnataka,020,Bellara,Total,1243,595,648
+29,Karnataka,020,Bellara,Rural,755,352,403
+29,Karnataka,020,Bellara,Urban,488,243,245
+29,Karnataka,021,"Bhangi, Mehtar, Olgana, Rukhi,  Malkana,  Halalkhor,  Lalbegi,  Balmiki, Korar,  Zadmalli",Total,5281,2573,2708
+29,Karnataka,021,"Bhangi, Mehtar, Olgana, Rukhi,  Malkana,  Halalkhor,  Lalbegi,  Balmiki, Korar,  Zadmalli",Rural,1785,878,907
+29,Karnataka,021,"Bhangi, Mehtar, Olgana, Rukhi,  Malkana,  Halalkhor,  Lalbegi,  Balmiki, Korar,  Zadmalli",Urban,3496,1695,1801
+29,Karnataka,022,"Bhambi, Bhambhi, Asadaru, Asodi,  Chamadia,  Chamar,  Chambhar,  Chamgar,  Haralayya,  Harali,  Khalpa,  Machigar,  Mochigar,  Madar,  Madig,  Mochi,  Muchi,  Telegu Mochi,  Kamati Mochi,  Ranigar,  Rohidas,  Rohit,  Samgar",Total,605486,302722,302764
+29,Karnataka,022,"Bhambi, Bhambhi, Asadaru, Asodi,  Chamadia,  Chamar,  Chambhar,  Chamgar,  Haralayya,  Harali,  Khalpa,  Machigar,  Mochigar,  Madar,  Madig,  Mochi,  Muchi,  Telegu Mochi,  Kamati Mochi,  Ranigar,  Rohidas,  Rohit,  Samgar",Rural,485580,243198,242382
+29,Karnataka,022,"Bhambi, Bhambhi, Asadaru, Asodi,  Chamadia,  Chamar,  Chambhar,  Chamgar,  Haralayya,  Harali,  Khalpa,  Machigar,  Mochigar,  Madar,  Madig,  Mochi,  Muchi,  Telegu Mochi,  Kamati Mochi,  Ranigar,  Rohidas,  Rohit,  Samgar",Urban,119906,59524,60382
+29,Karnataka,023,"Bhovi, Od, Odde, Vaddar, Waddar, Voddar, Woddar",Total,1119315,563026,556289
+29,Karnataka,023,"Bhovi, Od, Odde, Vaddar, Waddar, Voddar, Woddar",Rural,809897,407744,402153
+29,Karnataka,023,"Bhovi, Od, Odde, Vaddar, Waddar, Voddar, Woddar",Urban,309418,155282,154136
+29,Karnataka,024,Bindla,Total,149,102,47
+29,Karnataka,024,Bindla,Rural,48,33,15
+29,Karnataka,024,Bindla,Urban,101,69,32
+29,Karnataka,025,Byagara,Total,2019,974,1045
+29,Karnataka,025,Byagara,Rural,1690,814,876
+29,Karnataka,025,Byagara,Urban,329,160,169
+29,Karnataka,026,Chakkiliyan,Total,574,293,281
+29,Karnataka,026,Chakkiliyan,Rural,278,146,132
+29,Karnataka,026,Chakkiliyan,Urban,296,147,149
+29,Karnataka,027,"Chalavadi, Chalvadi, Channayya",Total,219626,109567,110059
+29,Karnataka,027,"Chalavadi, Chalvadi, Channayya",Rural,158201,79241,78960
+29,Karnataka,027,"Chalavadi, Chalvadi, Channayya",Urban,61425,30326,31099
+29,Karnataka,028,Chandala,Total,142,75,67
+29,Karnataka,028,Chandala,Rural,79,42,37
+29,Karnataka,028,Chandala,Urban,63,33,30
+29,Karnataka,029,"Chenna Dasar, Holaya Dasar",Total,72003,36202,35801
+29,Karnataka,029,"Chenna Dasar, Holaya Dasar",Rural,56305,28332,27973
+29,Karnataka,029,"Chenna Dasar, Holaya Dasar",Urban,15698,7870,7828
+29,Karnataka,030,"Dakkal, Dokkalwar",Total,530,268,262
+29,Karnataka,030,"Dakkal, Dokkalwar",Rural,272,130,142
+29,Karnataka,030,"Dakkal, Dokkalwar",Urban,258,138,120
+29,Karnataka,031,Dakkaliga,Total,763,365,398
+29,Karnataka,031,Dakkaliga,Rural,413,204,209
+29,Karnataka,031,Dakkaliga,Urban,350,161,189
+29,Karnataka,032,"Dhor, Kakkayya, Kankayya",Total,29199,14746,14453
+29,Karnataka,032,"Dhor, Kakkayya, Kankayya",Rural,14602,7426,7176
+29,Karnataka,032,"Dhor, Kakkayya, Kankayya",Urban,14597,7320,7277
+29,Karnataka,033,"Dom, Dombara, Paidi, Pano",Total,26344,13262,13082
+29,Karnataka,033,"Dom, Dombara, Paidi, Pano",Rural,18620,9361,9259
+29,Karnataka,033,"Dom, Dombara, Paidi, Pano",Urban,7724,3901,3823
+29,Karnataka,034,"Ellamalwar, Yellammalawandlu",Total,108,53,55
+29,Karnataka,034,"Ellamalwar, Yellammalawandlu",Rural,76,39,37
+29,Karnataka,034,"Ellamalwar, Yellammalawandlu",Urban,32,14,18
+29,Karnataka,035,Ganti Chores,Total,4967,2443,2524
+29,Karnataka,035,Ganti Chores,Rural,3159,1576,1583
+29,Karnataka,035,Ganti Chores,Urban,1808,867,941
+29,Karnataka,036,"Garoda, Garo",Total,170,86,84
+29,Karnataka,036,"Garoda, Garo",Rural,104,51,53
+29,Karnataka,036,"Garoda, Garo",Urban,66,35,31
+29,Karnataka,037,Godda,Total,1532,777,755
+29,Karnataka,037,Godda,Rural,914,468,446
+29,Karnataka,037,Godda,Urban,618,309,309
+29,Karnataka,038,Gosangi,Total,2219,1111,1108
+29,Karnataka,038,Gosangi,Rural,884,441,443
+29,Karnataka,038,Gosangi,Urban,1335,670,665
+29,Karnataka,039,Halleer,Total,3533,1772,1761
+29,Karnataka,039,Halleer,Rural,3376,1698,1678
+29,Karnataka,039,Halleer,Urban,157,74,83
+29,Karnataka,040,"Halsar, Haslar, Hulasvar, Halasvar",Total,9695,4713,4982
+29,Karnataka,040,"Halsar, Haslar, Hulasvar, Halasvar",Rural,7353,3581,3772
+29,Karnataka,040,"Halsar, Haslar, Hulasvar, Halasvar",Urban,2342,1132,1210
+29,Karnataka,041,Handi Jogis,Total,22675,11429,11246
+29,Karnataka,041,Handi Jogis,Rural,14740,7402,7338
+29,Karnataka,041,Handi Jogis,Urban,7935,4027,3908
+29,Karnataka,042,Hasla,Total,924,435,489
+29,Karnataka,042,Hasla,Rural,901,426,475
+29,Karnataka,042,Hasla,Urban,23,9,14
+29,Karnataka,043,"Holar, Valhar",Total,1548,779,769
+29,Karnataka,043,"Holar, Valhar",Rural,1136,573,563
+29,Karnataka,043,"Holar, Valhar",Urban,412,206,206
+29,Karnataka,044,"Holaya, Holer, Holeya",Total,792785,404821,387964
+29,Karnataka,044,"Holaya, Holer, Holeya",Rural,635846,324011,311835
+29,Karnataka,044,"Holaya, Holer, Holeya",Urban,156939,80810,76129
+29,Karnataka,045,Holeya Dasari,Total,382,203,179
+29,Karnataka,045,Holeya Dasari,Rural,316,164,152
+29,Karnataka,045,Holeya Dasari,Urban,66,39,27
+29,Karnataka,046,Jaggali,Total,1061,552,509
+29,Karnataka,046,Jaggali,Rural,880,461,419
+29,Karnataka,046,Jaggali,Urban,181,91,90
+29,Karnataka,047,Jambuvulu,Total,12411,6205,6206
+29,Karnataka,047,Jambuvulu,Rural,9913,4942,4971
+29,Karnataka,047,Jambuvulu,Urban,2498,1263,1235
+29,Karnataka,048,Kadaiyan,Total,45,25,20
+29,Karnataka,048,Kadaiyan,Rural,20,12,8
+29,Karnataka,048,Kadaiyan,Urban,25,13,12
+29,Karnataka,049,Kalladi,Total,1774,857,917
+29,Karnataka,049,Kalladi,Rural,1661,797,864
+29,Karnataka,049,Kalladi,Urban,113,60,53
+29,Karnataka,050,Kepmaris,Total,19,11,8
+29,Karnataka,050,Kepmaris,Rural,18,10,8
+29,Karnataka,050,Kepmaris,Urban,1,1,0
+29,Karnataka,051,Kolupulvandlu,Total,1,1,0
+29,Karnataka,051,Kolupulvandlu,Rural,0,0,0
+29,Karnataka,051,Kolupulvandlu,Urban,1,1,0
+29,Karnataka,052,Koosa,Total,202,108,94
+29,Karnataka,052,Koosa,Rural,157,80,77
+29,Karnataka,052,Koosa,Urban,45,28,17
+29,Karnataka,053,"Koracha, Korachar",Total,55148,27705,27443
+29,Karnataka,053,"Koracha, Korachar",Rural,37609,18870,18739
+29,Karnataka,053,"Koracha, Korachar",Urban,17539,8835,8704
+29,Karnataka,054,"Korama, Korava, Koravar",Total,209568,105128,104440
+29,Karnataka,054,"Korama, Korava, Koravar",Rural,136159,68556,67603
+29,Karnataka,054,"Korama, Korava, Koravar",Urban,73409,36572,36837
+29,Karnataka,055,"Kotegar, Metri",Total,2370,1189,1181
+29,Karnataka,055,"Kotegar, Metri",Rural,1493,742,751
+29,Karnataka,055,"Kotegar, Metri",Urban,877,447,430
+29,Karnataka,056,Kudumban,Total,80,36,44
+29,Karnataka,056,Kudumban,Rural,33,14,19
+29,Karnataka,056,Kudumban,Urban,47,22,25
+29,Karnataka,057,Kuravan,Total,637,307,330
+29,Karnataka,057,Kuravan,Rural,176,80,96
+29,Karnataka,057,Kuravan,Urban,461,227,234
+29,Karnataka,058,Lingader,Total,76,40,36
+29,Karnataka,058,Lingader,Rural,44,23,21
+29,Karnataka,058,Lingader,Urban,32,17,15
+29,Karnataka,059,Machala,Total,244,135,109
+29,Karnataka,059,Machala,Rural,178,96,82
+29,Karnataka,059,Machala,Urban,66,39,27
+29,Karnataka,060,Madari,Total,1060,548,512
+29,Karnataka,060,Madari,Rural,553,283,270
+29,Karnataka,060,Madari,Urban,507,265,242
+29,Karnataka,061,Madiga,Total,953913,477299,476614
+29,Karnataka,061,Madiga,Rural,726401,363836,362565
+29,Karnataka,061,Madiga,Urban,227512,113463,114049
+29,Karnataka,062,"Mahar, Taral, Dhegu Megu,",Total,66068,33092,32976
+29,Karnataka,062,"Mahar, Taral, Dhegu Megu,",Rural,51266,25805,25461
+29,Karnataka,062,"Mahar, Taral, Dhegu Megu,",Urban,14802,7287,7515
+29,Karnataka,063,"Mahyavanshi, Dhed, Vankar, Maru Vankar",Total,63,41,22
+29,Karnataka,063,"Mahyavanshi, Dhed, Vankar, Maru Vankar",Rural,31,18,13
+29,Karnataka,063,"Mahyavanshi, Dhed, Vankar, Maru Vankar",Urban,32,23,9
+29,Karnataka,064,Maila,Total,1824,873,951
+29,Karnataka,064,Maila,Rural,1709,817,892
+29,Karnataka,064,Maila,Urban,115,56,59
+29,Karnataka,065,Mala,Total,20105,10100,10005
+29,Karnataka,065,Mala,Rural,3731,1889,1842
+29,Karnataka,065,Mala,Urban,16374,8211,8163
+29,Karnataka,066,Mala Dasari,Total,4391,2159,2232
+29,Karnataka,066,Mala Dasari,Rural,2322,1121,1201
+29,Karnataka,066,Mala Dasari,Urban,2069,1038,1031
+29,Karnataka,067,Mala Hannai,Total,17,8,9
+29,Karnataka,067,Mala Hannai,Rural,11,5,6
+29,Karnataka,067,Mala Hannai,Urban,6,3,3
+29,Karnataka,068,Mala Jangam,Total,28,15,13
+29,Karnataka,068,Mala Jangam,Rural,16,9,7
+29,Karnataka,068,Mala Jangam,Urban,12,6,6
+29,Karnataka,069,Mala Masti,Total,5,3,2
+29,Karnataka,069,Mala Masti,Rural,0,0,0
+29,Karnataka,069,Mala Masti,Urban,5,3,2
+29,Karnataka,070,"Mala Sale, Netkani",Total,257,145,112
+29,Karnataka,070,"Mala Sale, Netkani",Rural,212,118,94
+29,Karnataka,070,"Mala Sale, Netkani",Urban,45,27,18
+29,Karnataka,071,Mala Sanyasi,Total,552,263,289
+29,Karnataka,071,Mala Sanyasi,Rural,537,254,283
+29,Karnataka,071,Mala Sanyasi,Urban,15,9,6
+29,Karnataka,072,"Mang, Matang, Minimadig",Total,26218,13369,12849
+29,Karnataka,072,"Mang, Matang, Minimadig",Rural,21905,11247,10658
+29,Karnataka,072,"Mang, Matang, Minimadig",Urban,4313,2122,2191
+29,Karnataka,073,"Mang Garudi, Mang Garodi",Total,3434,1759,1675
+29,Karnataka,073,"Mang Garudi, Mang Garodi",Rural,615,322,293
+29,Karnataka,073,"Mang Garudi, Mang Garodi",Urban,2819,1437,1382
+29,Karnataka,074,Manne,Total,99,49,50
+29,Karnataka,074,Manne,Rural,73,36,37
+29,Karnataka,074,Manne,Urban,26,13,13
+29,Karnataka,075,Masthi,Total,100,52,48
+29,Karnataka,075,Masthi,Rural,65,34,31
+29,Karnataka,075,Masthi,Urban,35,18,17
+29,Karnataka,076,Mavilan,Total,42,24,18
+29,Karnataka,076,Mavilan,Rural,17,10,7
+29,Karnataka,076,Mavilan,Urban,25,14,11
+29,Karnataka,077,"Meghval, Menghvar",Total,2057,1024,1033
+29,Karnataka,077,"Meghval, Menghvar",Rural,1464,714,750
+29,Karnataka,077,"Meghval, Menghvar",Urban,593,310,283
+29,Karnataka,078,Moger,Total,82807,40936,41871
+29,Karnataka,078,Moger,Rural,71306,35334,35972
+29,Karnataka,078,Moger,Urban,11501,5602,5899
+29,Karnataka,079,Mukri,Total,11162,5528,5634
+29,Karnataka,079,Mukri,Rural,9552,4744,4808
+29,Karnataka,079,Mukri,Urban,1610,784,826
+29,Karnataka,080,Mundala,Total,27417,13238,14179
+29,Karnataka,080,Mundala,Rural,13614,6619,6995
+29,Karnataka,080,Mundala,Urban,13803,6619,7184
+29,Karnataka,081,"Nadia, Hadi",Total,1378,726,652
+29,Karnataka,081,"Nadia, Hadi",Rural,884,460,424
+29,Karnataka,081,"Nadia, Hadi",Urban,494,266,228
+29,Karnataka,082,Nalkadaya,Total,765,394,371
+29,Karnataka,082,Nalkadaya,Rural,694,362,332
+29,Karnataka,082,Nalkadaya,Urban,71,32,39
+29,Karnataka,083,Nalakeyava,Total,5942,2955,2987
+29,Karnataka,083,Nalakeyava,Rural,4927,2447,2480
+29,Karnataka,083,Nalakeyava,Urban,1015,508,507
+29,Karnataka,084,Nayadi,Total,589,292,297
+29,Karnataka,084,Nayadi,Rural,369,178,191
+29,Karnataka,084,Nayadi,Urban,220,114,106
+29,Karnataka,085,Pale,Total,9374,4487,4887
+29,Karnataka,085,Pale,Rural,8813,4204,4609
+29,Karnataka,085,Pale,Urban,561,283,278
+29,Karnataka,086,Pallan,Total,3592,1795,1797
+29,Karnataka,086,Pallan,Rural,2760,1358,1402
+29,Karnataka,086,Pallan,Urban,832,437,395
+29,Karnataka,087,Pambada,Total,711,322,389
+29,Karnataka,087,Pambada,Rural,220,111,109
+29,Karnataka,087,Pambada,Urban,491,211,280
+29,Karnataka,088,Panchama,Total,450,235,215
+29,Karnataka,088,Panchama,Rural,418,222,196
+29,Karnataka,088,Panchama,Urban,32,13,19
+29,Karnataka,089,Panniandi,Total,11,4,7
+29,Karnataka,089,Panniandi,Rural,11,4,7
+29,Karnataka,089,Panniandi,Urban,0,0,0
+29,Karnataka,090,"Paraiyan, Paraya",Total,2418,1201,1217
+29,Karnataka,090,"Paraiyan, Paraya",Rural,1590,758,832
+29,Karnataka,090,"Paraiyan, Paraya",Urban,828,443,385
+29,Karnataka,091,Paravan,Total,3528,1777,1751
+29,Karnataka,091,Paravan,Rural,2997,1493,1504
+29,Karnataka,091,Paravan,Urban,531,284,247
+29,Karnataka,092,Raneyar,Total,3578,1727,1851
+29,Karnataka,092,Raneyar,Rural,2703,1302,1401
+29,Karnataka,092,Raneyar,Urban,875,425,450
+29,Karnataka,093,Samagara,Total,88215,44875,43340
+29,Karnataka,093,Samagara,Rural,44722,22962,21760
+29,Karnataka,093,Samagara,Urban,43493,21913,21580
+29,Karnataka,094,Samban,Total,102,56,46
+29,Karnataka,094,Samban,Rural,64,33,31
+29,Karnataka,094,Samban,Urban,38,23,15
+29,Karnataka,095,Sapari,Total,49,24,25
+29,Karnataka,095,Sapari,Rural,38,17,21
+29,Karnataka,095,Sapari,Urban,11,7,4
+29,Karnataka,096,Sillekyathas,Total,35197,17832,17365
+29,Karnataka,096,Sillekyathas,Rural,29619,15004,14615
+29,Karnataka,096,Sillekyathas,Urban,5578,2828,2750
+29,Karnataka,097,"Sindhollu, Chindollu",Total,1706,867,839
+29,Karnataka,097,"Sindhollu, Chindollu",Rural,740,388,352
+29,Karnataka,097,"Sindhollu, Chindollu",Urban,966,479,487
+29,Karnataka,098,Sudugadu Siddha,Total,29457,14952,14505
+29,Karnataka,098,Sudugadu Siddha,Rural,21376,10823,10553
+29,Karnataka,098,Sudugadu Siddha,Urban,8081,4129,3952
+29,Karnataka,099,Thoti,Total,1304,662,642
+29,Karnataka,099,Thoti,Rural,725,370,355
+29,Karnataka,099,Thoti,Urban,579,292,287
+29,Karnataka,100,"Tirgar, Tirbanda",Total,81,43,38
+29,Karnataka,100,"Tirgar, Tirbanda",Rural,10,6,4
+29,Karnataka,100,"Tirgar, Tirbanda",Urban,71,37,34
+29,Karnataka,101,Valluvan,Total,1115,571,544
+29,Karnataka,101,Valluvan,Rural,112,58,54
+29,Karnataka,101,Valluvan,Urban,1003,513,490
+32,Kerala,000,All Schedule Castes,Total,3039573,1477808,1561765
+32,Kerala,000,All Schedule Castes,Rural,1818281,883819,934462
+32,Kerala,000,All Schedule Castes,Urban,1221292,593989,627303
+32,Kerala,001,Adi Andhra,Total,1252,619,633
+32,Kerala,001,Adi Andhra,Rural,729,358,371
+32,Kerala,001,Adi Andhra,Urban,523,261,262
+32,Kerala,002,Adi Dravida,Total,4272,2269,2003
+32,Kerala,002,Adi Dravida,Rural,2712,1423,1289
+32,Kerala,002,Adi Dravida,Urban,1560,846,714
+32,Kerala,003,Adi Karnataka,Total,1629,818,811
+32,Kerala,003,Adi Karnataka,Rural,1428,720,708
+32,Kerala,003,Adi Karnataka,Urban,201,98,103
+32,Kerala,004,Ajila,Total,54,28,26
+32,Kerala,004,Ajila,Rural,45,23,22
+32,Kerala,004,Ajila,Urban,9,5,4
+32,Kerala,005,Arunthathiyar,Total,2731,1388,1343
+32,Kerala,005,Arunthathiyar,Rural,1459,731,728
+32,Kerala,005,Arunthathiyar,Urban,1272,657,615
+32,Kerala,006,Ayyanavar,Total,11168,5411,5757
+32,Kerala,006,Ayyanavar,Rural,5091,2489,2602
+32,Kerala,006,Ayyanavar,Urban,6077,2922,3155
+32,Kerala,007,Baira,Total,1040,546,494
+32,Kerala,007,Baira,Rural,942,484,458
+32,Kerala,007,Baira,Urban,98,62,36
+32,Kerala,008,Bakuda,Total,6321,3153,3168
+32,Kerala,008,Bakuda,Rural,4610,2289,2321
+32,Kerala,008,Bakuda,Urban,1711,864,847
+32,Kerala,009,Bathada,Total,20,14,6
+32,Kerala,009,Bathada,Rural,9,5,4
+32,Kerala,009,Bathada,Urban,11,9,2
+32,Kerala,010,"Bharathar (other than Parathar), Paravan",Total,35120,17049,18071
+32,Kerala,010,"Bharathar (other than Parathar), Paravan",Rural,16394,8054,8340
+32,Kerala,010,"Bharathar (other than Parathar), Paravan",Urban,18726,8995,9731
+32,Kerala,011,Chakkiliyan,Total,37776,18888,18888
+32,Kerala,011,Chakkiliyan,Rural,25117,12505,12612
+32,Kerala,011,Chakkiliyan,Urban,12659,6383,6276
+32,Kerala,012,"Chamar, Muchi",Total,207,143,64
+32,Kerala,012,"Chamar, Muchi",Rural,79,50,29
+32,Kerala,012,"Chamar, Muchi",Urban,128,93,35
+32,Kerala,013,Chandala,Total,48,27,21
+32,Kerala,013,Chandala,Rural,16,9,7
+32,Kerala,013,Chandala,Urban,32,18,14
+32,Kerala,014,Cheruman,Total,317218,154901,162317
+32,Kerala,014,Cheruman,Rural,225803,110352,115451
+32,Kerala,014,Cheruman,Urban,91415,44549,46866
+32,Kerala,015,Domban,Total,756,403,353
+32,Kerala,015,Domban,Rural,462,246,216
+32,Kerala,015,Domban,Urban,294,157,137
+32,Kerala,016,Gosangi,Total,32,18,14
+32,Kerala,016,Gosangi,Rural,0,0,0
+32,Kerala,016,Gosangi,Urban,32,18,14
+32,Kerala,018,Holeya,Total,1060,509,551
+32,Kerala,018,Holeya,Rural,1032,492,540
+32,Kerala,018,Holeya,Urban,28,17,11
+32,Kerala,019,Kadaiyan,Total,1844,899,945
+32,Kerala,019,Kadaiyan,Rural,727,347,380
+32,Kerala,019,Kadaiyan,Urban,1117,552,565
+32,Kerala,020,"Kakkalan, Kakkan",Total,6133,3024,3109
+32,Kerala,020,"Kakkalan, Kakkan",Rural,2956,1453,1503
+32,Kerala,020,"Kakkalan, Kakkan",Urban,3177,1571,1606
+32,Kerala,021,Kalladi,Total,38616,18848,19768
+32,Kerala,021,Kalladi,Rural,29792,14559,15233
+32,Kerala,021,Kalladi,Urban,8824,4289,4535
+32,Kerala,022,"Kanakkan, Padanna, Padannan",Total,245593,120444,125149
+32,Kerala,022,"Kanakkan, Padanna, Padannan",Rural,137273,67382,69891
+32,Kerala,022,"Kanakkan, Padanna, Padannan",Urban,108320,53062,55258
+32,Kerala,023,"Kavara (other than Telugu speaking or Tamil speaking Balija, Kavarai, Gavara,   Gavarai, Gavarai Naidu, Balija Naidu, Gajalu Balija or Valai Chetty)",Total,16162,7971,8191
+32,Kerala,023,"Kavara (other than Telugu speaking or Tamil speaking Balija, Kavarai, Gavara,   Gavarai, Gavarai Naidu, Balija Naidu, Gajalu Balija or Valai Chetty)",Rural,14148,6954,7194
+32,Kerala,023,"Kavara (other than Telugu speaking or Tamil speaking Balija, Kavarai, Gavara,   Gavarai, Gavarai Naidu, Balija Naidu, Gajalu Balija or Valai Chetty)",Urban,2014,1017,997
+32,Kerala,024,Koosa,Total,28,17,11
+32,Kerala,024,Koosa,Rural,17,10,7
+32,Kerala,024,Koosa,Urban,11,7,4
+32,Kerala,025,"Kootan, Koodan",Total,5008,2433,2575
+32,Kerala,025,"Kootan, Koodan",Rural,3796,1867,1929
+32,Kerala,025,"Kootan, Koodan",Urban,1212,566,646
+32,Kerala,026,Kudumban,Total,2707,1323,1384
+32,Kerala,026,Kudumban,Rural,1181,564,617
+32,Kerala,026,Kudumban,Urban,1526,759,767
+32,Kerala,027,"Kuravan, Sidhanar, Kuravar, Kurava, Sidhana",Total,277377,131280,146097
+32,Kerala,027,"Kuravan, Sidhanar, Kuravar, Kurava, Sidhana",Rural,224358,105976,118382
+32,Kerala,027,"Kuravan, Sidhanar, Kuravar, Kurava, Sidhana",Urban,53019,25304,27715
+32,Kerala,028,Maila,Total,239,130,109
+32,Kerala,028,Maila,Rural,146,80,66
+32,Kerala,028,Maila,Urban,93,50,43
+32,Kerala,029,"Malayan [in the areas comprising the Malabar district as specified by sub-section (2) of section 5 of the States Reorganisation Act,  1956 (37of 1956)]a",Total,9581,4601,4980
+32,Kerala,029,"Malayan [in the areas comprising the Malabar district as specified by sub-section (2) of section 5 of the States Reorganisation Act,  1956 (37of 1956)]a",Rural,3326,1585,1741
+32,Kerala,029,"Malayan [in the areas comprising the Malabar district as specified by sub-section (2) of section 5 of the States Reorganisation Act,  1956 (37of 1956)]a",Urban,6255,3016,3239
+32,Kerala,030,"Mannan, Pathiyan, Perumannan, Vannan, Velan",Total,232690,113128,119562
+32,Kerala,030,"Mannan, Pathiyan, Perumannan, Vannan, Velan",Rural,128503,62580,65923
+32,Kerala,030,"Mannan, Pathiyan, Perumannan, Vannan, Velan",Urban,104187,50548,53639
+32,Kerala,031,Moger (other than Mogeyar),Total,24642,12304,12338
+32,Kerala,031,Moger (other than Mogeyar),Rural,18405,9189,9216
+32,Kerala,031,Moger (other than Mogeyar),Urban,6237,3115,3122
+32,Kerala,032,Mundala,Total,252,124,128
+32,Kerala,032,Mundala,Rural,72,45,27
+32,Kerala,032,Mundala,Urban,180,79,101
+32,Kerala,033,Nalakeyava,Total,274,133,141
+32,Kerala,033,Nalakeyava,Rural,215,107,108
+32,Kerala,033,Nalakeyava,Urban,59,26,33
+32,Kerala,034,Nalkadaya,Total,1847,946,901
+32,Kerala,034,Nalkadaya,Rural,1559,799,760
+32,Kerala,034,Nalkadaya,Urban,288,147,141
+32,Kerala,035,Nayadi,Total,2828,1353,1475
+32,Kerala,035,Nayadi,Rural,2032,971,1061
+32,Kerala,035,Nayadi,Urban,796,382,414
+32,Kerala,036,Pallan,Total,46934,23514,23420
+32,Kerala,036,Pallan,Rural,45867,22953,22914
+32,Kerala,036,Pallan,Urban,1067,561,506
+32,Kerala,037,Palluvan,Total,5865,2872,2993
+32,Kerala,037,Palluvan,Rural,3592,1791,1801
+32,Kerala,037,Palluvan,Urban,2273,1081,1192
+32,Kerala,038,Pambada,Total,22,11,11
+32,Kerala,038,Pambada,Rural,7,3,4
+32,Kerala,038,Pambada,Urban,15,8,7
+32,Kerala,039,Panan,Total,51485,24892,26593
+32,Kerala,039,Panan,Rural,36146,17464,18682
+32,Kerala,039,Panan,Urban,15339,7428,7911
+32,Kerala,040,"Paraiyan, Parayan, Sambavar, Sambavan, Sambava, Paraya, Paraiya, Parayar",Total,227433,111317,116116
+32,Kerala,040,"Paraiyan, Parayan, Sambavar, Sambavan, Sambava, Paraya, Paraiya, Parayar",Rural,162680,79716,82964
+32,Kerala,040,"Paraiyan, Parayan, Sambavar, Sambavan, Sambava, Paraya, Paraiya, Parayar",Urban,64753,31601,33152
+32,Kerala,041,"Pulayan, Cheramar, Pulaya, Pulayar, Cherama, Cheraman, Wayanad Pulayan, Wayanadan Pulayan, Matha, Matha Pulayan",Total,1020790,495319,525471
+32,Kerala,041,"Pulayan, Cheramar, Pulaya, Pulayar, Cherama, Cheraman, Wayanad Pulayan, Wayanadan Pulayan, Matha, Matha Pulayan",Rural,541775,263011,278764
+32,Kerala,041,"Pulayan, Cheramar, Pulaya, Pulayar, Cherama, Cheraman, Wayanad Pulayan, Wayanadan Pulayan, Matha, Matha Pulayan",Urban,479015,232308,246707
+32,Kerala,042,Puthirai Vannan,Total,440,224,216
+32,Kerala,042,Puthirai Vannan,Rural,379,192,187
+32,Kerala,042,Puthirai Vannan,Urban,61,32,29
+32,Kerala,043,Raneyar,Total,10,8,2
+32,Kerala,043,Raneyar,Rural,0,0,0
+32,Kerala,043,Raneyar,Urban,10,8,2
+32,Kerala,044,Samagara,Total,131,67,64
+32,Kerala,044,Samagara,Rural,101,49,52
+32,Kerala,044,Samagara,Urban,30,18,12
+32,Kerala,045,Samban,Total,4986,2453,2533
+32,Kerala,045,Samban,Rural,3707,1805,1902
+32,Kerala,045,Samban,Urban,1279,648,631
+32,Kerala,046,"Semman, Chemman, Chemmar",Total,2335,1144,1191
+32,Kerala,046,"Semman, Chemman, Chemmar",Rural,386,201,185
+32,Kerala,046,"Semman, Chemman, Chemmar",Urban,1949,943,1006
+32,Kerala,047,"Thandan (excluding Ezhuvas and Thiyyas who are known as Thandan, in the erstwhile Cochin and Malabar areas) and (Carpenters who are known as Thachan, in the erstwhile Cochin and Travancore State)",Total,131533,63324,68209
+32,Kerala,047,"Thandan (excluding Ezhuvas and Thiyyas who are known as Thandan, in the erstwhile Cochin and Malabar areas) and (Carpenters who are known as Thachan, in the erstwhile Cochin and Travancore State)",Rural,46170,22083,24087
+32,Kerala,047,"Thandan (excluding Ezhuvas and Thiyyas who are known as Thandan, in the erstwhile Cochin and Malabar areas) and (Carpenters who are known as Thachan, in the erstwhile Cochin and Travancore State)",Urban,85363,41241,44122
+32,Kerala,048,Thoti,Total,423,222,201
+32,Kerala,048,Thoti,Rural,356,186,170
+32,Kerala,048,Thoti,Urban,67,36,31
+32,Kerala,049,Vallon,Total,568,273,295
+32,Kerala,049,Vallon,Rural,258,121,137
+32,Kerala,049,Vallon,Urban,310,152,158
+32,Kerala,050,Valluvan,Total,18421,8946,9475
+32,Kerala,050,Valluvan,Rural,11943,5816,6127
+32,Kerala,050,Valluvan,Urban,6478,3130,3348
+32,Kerala,051,Vetan,Total,22268,10464,11804
+32,Kerala,051,Vetan,Rural,18373,8577,9796
+32,Kerala,051,Vetan,Urban,3895,1887,2008
+32,Kerala,052,"Vettuvan, Pulaya Vettuvan (in the areas of erstwhile Cochin State only)",Total,73909,36096,37813
+32,Kerala,052,"Vettuvan, Pulaya Vettuvan (in the areas of erstwhile Cochin State only)",Rural,11586,5681,5905
+32,Kerala,052,"Vettuvan, Pulaya Vettuvan (in the areas of erstwhile Cochin State only)",Urban,62323,30415,31908
+32,Kerala,053,Nerian,Total,3,3,0
+32,Kerala,053,Nerian,Rural,3,3,0
+32,Kerala,053,Nerian,Urban,0,0,0
+33,Tamil Nadu,000,All Schedule Castes,Total,14438445,7204687,7233758
+33,Tamil Nadu,000,All Schedule Castes,Rural,9475475,4736003,4739472
+33,Tamil Nadu,000,All Schedule Castes,Urban,4962970,2468684,2494286
+33,Tamil Nadu,001,Adi Andhra,Total,58362,28990,29372
+33,Tamil Nadu,001,Adi Andhra,Rural,5229,2564,2665
+33,Tamil Nadu,001,Adi Andhra,Urban,53133,26426,26707
+33,Tamil Nadu,002,Adi Dravida,Total,7242176,3619665,3622511
+33,Tamil Nadu,002,Adi Dravida,Rural,4761920,2386047,2375873
+33,Tamil Nadu,002,Adi Dravida,Urban,2480256,1233618,1246638
+33,Tamil Nadu,003,Adi Karnataka,Total,26729,13214,13515
+33,Tamil Nadu,003,Adi Karnataka,Rural,11530,5709,5821
+33,Tamil Nadu,003,Adi Karnataka,Urban,15199,7505,7694
+33,Tamil Nadu,004,Ajila,Total,132,68,64
+33,Tamil Nadu,004,Ajila,Rural,18,7,11
+33,Tamil Nadu,004,Ajila,Urban,114,61,53
+33,Tamil Nadu,005,Arunthathiyar,Total,1084162,544879,539283
+33,Tamil Nadu,005,Arunthathiyar,Rural,640707,323116,317591
+33,Tamil Nadu,005,Arunthathiyar,Urban,443455,221763,221692
+33,Tamil Nadu,006,Ayyanavar  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,899,458,441
+33,Tamil Nadu,006,Ayyanavar  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,56,30,26
+33,Tamil Nadu,006,Ayyanavar  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,843,428,415
+33,Tamil Nadu,007,Baira,Total,2755,1388,1367
+33,Tamil Nadu,007,Baira,Rural,1526,759,767
+33,Tamil Nadu,007,Baira,Urban,1229,629,600
+33,Tamil Nadu,008,Bakuda,Total,4837,2318,2519
+33,Tamil Nadu,008,Bakuda,Rural,2835,1320,1515
+33,Tamil Nadu,008,Bakuda,Urban,2002,998,1004
+33,Tamil Nadu,009,Bandi,Total,3082,1527,1555
+33,Tamil Nadu,009,Bandi,Rural,521,255,266
+33,Tamil Nadu,009,Bandi,Urban,2561,1272,1289
+33,Tamil Nadu,010,Bellara,Total,38,21,17
+33,Tamil Nadu,010,Bellara,Rural,8,5,3
+33,Tamil Nadu,010,Bellara,Urban,30,16,14
+33,Tamil Nadu,011,Bharatar  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,2177,1108,1069
+33,Tamil Nadu,011,Bharatar  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,643,328,315
+33,Tamil Nadu,011,Bharatar  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,1534,780,754
+33,Tamil Nadu,012,Chakkiliyan,Total,742597,371478,371119
+33,Tamil Nadu,012,Chakkiliyan,Rural,486250,243445,242805
+33,Tamil Nadu,012,Chakkiliyan,Urban,256347,128033,128314
+33,Tamil Nadu,013,Chalavadi,Total,93,40,53
+33,Tamil Nadu,013,Chalavadi,Rural,28,14,14
+33,Tamil Nadu,013,Chalavadi,Urban,65,26,39
+33,Tamil Nadu,014,"Chamar,  Muchi",Total,525,311,214
+33,Tamil Nadu,014,"Chamar,  Muchi",Rural,102,63,39
+33,Tamil Nadu,014,"Chamar,  Muchi",Urban,423,248,175
+33,Tamil Nadu,015,Chandala,Total,109,57,52
+33,Tamil Nadu,015,Chandala,Rural,34,22,12
+33,Tamil Nadu,015,Chandala,Urban,75,35,40
+33,Tamil Nadu,016,Cheruman,Total,1449,727,722
+33,Tamil Nadu,016,Cheruman,Rural,363,180,183
+33,Tamil Nadu,016,Cheruman,Urban,1086,547,539
+33,Tamil Nadu,017,Devendrakulathan,Total,85933,42762,43171
+33,Tamil Nadu,017,Devendrakulathan,Rural,29407,14665,14742
+33,Tamil Nadu,017,Devendrakulathan,Urban,56526,28097,28429
+33,Tamil Nadu,018,"Dom,  Dombara,  Paidi,  Pano",Total,4027,1976,2051
+33,Tamil Nadu,018,"Dom,  Dombara,  Paidi,  Pano",Rural,2771,1356,1415
+33,Tamil Nadu,018,"Dom,  Dombara,  Paidi,  Pano",Urban,1256,620,636
+33,Tamil Nadu,019,Domban,Total,16963,8371,8592
+33,Tamil Nadu,019,Domban,Rural,8481,4219,4262
+33,Tamil Nadu,019,Domban,Urban,8482,4152,4330
+33,Tamil Nadu,020,Godagali,Total,36,20,16
+33,Tamil Nadu,020,Godagali,Rural,28,15,13
+33,Tamil Nadu,020,Godagali,Urban,8,5,3
+33,Tamil Nadu,021,Godda,Total,674,338,336
+33,Tamil Nadu,021,Godda,Rural,162,82,80
+33,Tamil Nadu,021,Godda,Urban,512,256,256
+33,Tamil Nadu,022,Gosangi,Total,3718,1876,1842
+33,Tamil Nadu,022,Gosangi,Rural,1488,759,729
+33,Tamil Nadu,022,Gosangi,Urban,2230,1117,1113
+33,Tamil Nadu,023,Holeya,Total,35,17,18
+33,Tamil Nadu,023,Holeya,Rural,19,10,9
+33,Tamil Nadu,023,Holeya,Urban,16,7,9
+33,Tamil Nadu,024,Jaggali,Total,894,451,443
+33,Tamil Nadu,024,Jaggali,Rural,685,342,343
+33,Tamil Nadu,024,Jaggali,Urban,209,109,100
+33,Tamil Nadu,025,Jambuvulu,Total,13,7,6
+33,Tamil Nadu,025,Jambuvulu,Rural,7,3,4
+33,Tamil Nadu,025,Jambuvulu,Urban,6,4,2
+33,Tamil Nadu,026,Kadaiyan,Total,11650,5784,5866
+33,Tamil Nadu,026,Kadaiyan,Rural,10343,5111,5232
+33,Tamil Nadu,026,Kadaiyan,Urban,1307,673,634
+33,Tamil Nadu,027,Kakkalan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,8,3,5
+33,Tamil Nadu,027,Kakkalan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,0,0,0
+33,Tamil Nadu,027,Kakkalan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,8,3,5
+33,Tamil Nadu,028,Kalladi,Total,400,204,196
+33,Tamil Nadu,028,Kalladi,Rural,81,43,38
+33,Tamil Nadu,028,Kalladi,Urban,319,161,158
+33,Tamil Nadu,029,"Kanakkan,  Padanna  (in the Nilgiris district)b",Total,205,99,106
+33,Tamil Nadu,029,"Kanakkan,  Padanna  (in the Nilgiris district)b",Rural,14,6,8
+33,Tamil Nadu,029,"Kanakkan,  Padanna  (in the Nilgiris district)b",Urban,191,93,98
+33,Tamil Nadu,031,Kavara  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,310,167,143
+33,Tamil Nadu,031,Kavara  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,97,53,44
+33,Tamil Nadu,031,Kavara  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,213,114,99
+33,Tamil Nadu,032,Koliyan,Total,7703,3792,3911
+33,Tamil Nadu,032,Koliyan,Rural,6467,3208,3259
+33,Tamil Nadu,032,Koliyan,Urban,1236,584,652
+33,Tamil Nadu,033,Koosa,Total,22,13,9
+33,Tamil Nadu,033,Koosa,Rural,6,5,1
+33,Tamil Nadu,033,Koosa,Urban,16,8,8
+33,Tamil Nadu,034,"Kootan,  Koodan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a",Total,346,159,187
+33,Tamil Nadu,034,"Kootan,  Koodan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a",Rural,101,44,57
+33,Tamil Nadu,034,"Kootan,  Koodan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a",Urban,245,115,130
+33,Tamil Nadu,035,Kudumban,Total,24406,11947,12459
+33,Tamil Nadu,035,Kudumban,Rural,16521,8077,8444
+33,Tamil Nadu,035,Kudumban,Urban,7885,3870,4015
+33,Tamil Nadu,036,"Kuravan,  Sidhanar",Total,140754,69652,71102
+33,Tamil Nadu,036,"Kuravan,  Sidhanar",Rural,65429,32534,32895
+33,Tamil Nadu,036,"Kuravan,  Sidhanar",Urban,75325,37118,38207
+33,Tamil Nadu,037,Madari,Total,247454,123557,123897
+33,Tamil Nadu,037,Madari,Rural,179575,89656,89919
+33,Tamil Nadu,037,Madari,Urban,67879,33901,33978
+33,Tamil Nadu,038,Madiga,Total,5929,3028,2901
+33,Tamil Nadu,038,Madiga,Rural,3103,1581,1522
+33,Tamil Nadu,038,Madiga,Urban,2826,1447,1379
+33,Tamil Nadu,039,Maila,Total,6,1,5
+33,Tamil Nadu,039,Maila,Rural,6,1,5
+33,Tamil Nadu,039,Maila,Urban,0,0,0
+33,Tamil Nadu,040,Mala,Total,3800,1945,1855
+33,Tamil Nadu,040,Mala,Rural,2369,1201,1168
+33,Tamil Nadu,040,Mala,Urban,1431,744,687
+33,Tamil Nadu,041,Mannan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,75,30,45
+33,Tamil Nadu,041,Mannan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,4,3,1
+33,Tamil Nadu,041,Mannan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,71,27,44
+33,Tamil Nadu,042,Mavilan,Total,4026,2112,1914
+33,Tamil Nadu,042,Mavilan,Rural,1917,1013,904
+33,Tamil Nadu,042,Mavilan,Urban,2109,1099,1010
+33,Tamil Nadu,043,Moger,Total,156,79,77
+33,Tamil Nadu,043,Moger,Rural,32,12,20
+33,Tamil Nadu,043,Moger,Urban,124,67,57
+33,Tamil Nadu,044,Mundala,Total,26,16,10
+33,Tamil Nadu,044,Mundala,Rural,17,12,5
+33,Tamil Nadu,044,Mundala,Urban,9,4,5
+33,Tamil Nadu,045,Nalakeyava,Total,4,3,1
+33,Tamil Nadu,045,Nalakeyava,Rural,0,0,0
+33,Tamil Nadu,045,Nalakeyava,Urban,4,3,1
+33,Tamil Nadu,046,Nayadi,Total,221,115,106
+33,Tamil Nadu,046,Nayadi,Rural,119,63,56
+33,Tamil Nadu,046,Nayadi,Urban,102,52,50
+33,Tamil Nadu,048,Pagadai,Total,7546,3705,3841
+33,Tamil Nadu,048,Pagadai,Rural,5433,2684,2749
+33,Tamil Nadu,048,Pagadai,Urban,2113,1021,1092
+33,Tamil Nadu,049,Pallan,Total,2329117,1155591,1173526
+33,Tamil Nadu,049,Pallan,Rural,1672576,830993,841583
+33,Tamil Nadu,049,Pallan,Urban,656541,324598,331943
+33,Tamil Nadu,050,Palluvan,Total,167,78,89
+33,Tamil Nadu,050,Palluvan,Rural,47,25,22
+33,Tamil Nadu,050,Palluvan,Urban,120,53,67
+33,Tamil Nadu,051,Pambada,Total,1434,720,714
+33,Tamil Nadu,051,Pambada,Rural,973,493,480
+33,Tamil Nadu,051,Pambada,Urban,461,227,234
+33,Tamil Nadu,052,Panan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,338,173,165
+33,Tamil Nadu,052,Panan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,14,8,6
+33,Tamil Nadu,052,Panan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,324,165,159
+33,Tamil Nadu,053,Panchama,Total,57,31,26
+33,Tamil Nadu,053,Panchama,Rural,23,14,9
+33,Tamil Nadu,053,Panchama,Urban,34,17,17
+33,Tamil Nadu,054,Pannadi,Total,4481,2252,2229
+33,Tamil Nadu,054,Pannadi,Rural,2210,1098,1112
+33,Tamil Nadu,054,Pannadi,Urban,2271,1154,1117
+33,Tamil Nadu,055,Panniandi,Total,11401,5619,5782
+33,Tamil Nadu,055,Panniandi,Rural,5128,2558,2570
+33,Tamil Nadu,055,Panniandi,Urban,6273,3061,3212
+33,Tamil Nadu,056,"Paraiyan,  Parayan,  Sambavar",Total,1822524,905334,917190
+33,Tamil Nadu,056,"Paraiyan,  Parayan,  Sambavar",Rural,1263560,627735,635825
+33,Tamil Nadu,056,"Paraiyan,  Parayan,  Sambavar",Urban,558964,277599,281365
+33,Tamil Nadu,057,Paravan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,2099,1060,1039
+33,Tamil Nadu,057,Paravan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,265,128,137
+33,Tamil Nadu,057,Paravan  (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,1834,932,902
+33,Tamil Nadu,058,Pathiyan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,1,0,1
+33,Tamil Nadu,058,Pathiyan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,0,0,0
+33,Tamil Nadu,058,Pathiyan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,1,0,1
+33,Tamil Nadu,059,"Pulayan,  Cheramar",Total,8515,4259,4256
+33,Tamil Nadu,059,"Pulayan,  Cheramar",Rural,5961,2993,2968
+33,Tamil Nadu,059,"Pulayan,  Cheramar",Urban,2554,1266,1288
+33,Tamil Nadu,060,Puthirai Vannan,Total,28351,14109,14242
+33,Tamil Nadu,060,Puthirai Vannan,Rural,13853,6880,6973
+33,Tamil Nadu,060,Puthirai Vannan,Urban,14498,7229,7269
+33,Tamil Nadu,061,Raneyar,Total,9,5,4
+33,Tamil Nadu,061,Raneyar,Rural,7,4,3
+33,Tamil Nadu,061,Raneyar,Urban,2,1,1
+33,Tamil Nadu,062,Samagara,Total,45,25,20
+33,Tamil Nadu,062,Samagara,Rural,9,4,5
+33,Tamil Nadu,062,Samagara,Urban,36,21,15
+33,Tamil Nadu,063,Samban,Total,7383,3678,3705
+33,Tamil Nadu,063,Samban,Rural,3386,1697,1689
+33,Tamil Nadu,063,Samban,Urban,3997,1981,2016
+33,Tamil Nadu,064,Sapari,Total,3,2,1
+33,Tamil Nadu,064,Sapari,Rural,0,0,0
+33,Tamil Nadu,064,Sapari,Urban,3,2,1
+33,Tamil Nadu,065,Semman,Total,2529,1245,1284
+33,Tamil Nadu,065,Semman,Rural,433,219,214
+33,Tamil Nadu,065,Semman,Urban,2096,1026,1070
+33,Tamil Nadu,066,Thandan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,3278,1583,1695
+33,Tamil Nadu,066,Thandan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,288,142,146
+33,Tamil Nadu,066,Thandan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,2990,1441,1549
+33,Tamil Nadu,067,Thoti,Total,4235,2094,2141
+33,Tamil Nadu,067,Thoti,Rural,1639,826,813
+33,Tamil Nadu,067,Thoti,Urban,2596,1268,1328
+33,Tamil Nadu,068,Tiruvalluvar,Total,1318,660,658
+33,Tamil Nadu,068,Tiruvalluvar,Rural,328,172,156
+33,Tamil Nadu,068,Tiruvalluvar,Urban,990,488,502
+33,Tamil Nadu,069,Vallon,Total,258,134,124
+33,Tamil Nadu,069,Vallon,Rural,133,69,64
+33,Tamil Nadu,069,Vallon,Urban,125,65,60
+33,Tamil Nadu,070,Valluvan,Total,90938,44994,45944
+33,Tamil Nadu,070,Valluvan,Rural,45670,22573,23097
+33,Tamil Nadu,070,Valluvan,Urban,45268,22421,22847
+33,Tamil Nadu,071,Vannan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,6856,3345,3511
+33,Tamil Nadu,071,Vannan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,1973,960,1013
+33,Tamil Nadu,071,Vannan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,4883,2385,2498
+33,Tamil Nadu,072,Vathiriyan,Total,9109,4529,4580
+33,Tamil Nadu,072,Vathiriyan,Rural,3122,1554,1568
+33,Tamil Nadu,072,Vathiriyan,Urban,5987,2975,3012
+33,Tamil Nadu,073,Velan,Total,512,261,251
+33,Tamil Nadu,073,Velan,Rural,103,45,58
+33,Tamil Nadu,073,Velan,Urban,409,216,193
+33,Tamil Nadu,074,Vetan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,1165,584,581
+33,Tamil Nadu,074,Vetan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,309,151,158
+33,Tamil Nadu,074,Vetan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,856,433,423
+33,Tamil Nadu,075,Vettiyan,Total,228,121,107
+33,Tamil Nadu,075,Vettiyan,Rural,166,88,78
+33,Tamil Nadu,075,Vettiyan,Urban,62,33,29
+33,Tamil Nadu,076,Vettuvan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Total,4,2,2
+33,Tamil Nadu,076,Vettuvan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Rural,0,0,0
+33,Tamil Nadu,076,Vettuvan (in Kanyakumari district and Shenkottah taluk of Tirunelveli district)a,Urban,4,2,2

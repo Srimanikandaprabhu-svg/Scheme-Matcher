@@ -1,0 +1,9 @@
+area_level,state_code,area_name,area_code,lgd_district_code,lgd_district_name,sc_total,sc_rural,sc_urban,sc_male,sc_female,census_year
+state,28,Andhra Pradesh,28,,,13878078,10846333,3031745,6913047,6965031,2011
+district,28,Chittoor,554,503.0,Chittoor,785760,647424,138336,389582,396178,2011
+state,29,Karnataka,29,,,10474992,7495763,2979229,5264545,5210447,2011
+district,29,Ramanagara,584,631.0,Ramanagara,203819,164788,39031,102612,101207,2011
+state,32,Kerala,32,,,3039573,1818281,1221292,1477808,1561765,2011
+district,32,Thiruvananthapuram,601,565.0,Thiruvananthapuram,372977,179917,193060,178589,194388,2011
+state,33,Tamil Nadu,33,,,14438445,9475475,4962970,7204687,7233758,2011
+district,33,Tiruppur,633,634.0,Tiruppur,395876,237893,157983,196907,198969,2011

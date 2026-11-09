@@ -1,0 +1,92 @@
+partner_id,type,name,abbreviation,state,address,source_key,retrieved_on
+SCA01,SCA,"Andhra Pradesh Scheduled Castes Cooperative Finance Corporation Ltd.",APSCCFC,"Andhra Pradesh","SP River View Apartments, 3rd Floor, Tadepalli, Amaravathi - 522 501",SCA_PDF,2026-11-09
+SCA02,SCA,"Andhra Pradesh State Financial Corporation",APSFC,"Andhra Pradesh","APSFC Building, Plot OS No.2, 2nd Cross, 3rd Road, Industrial Park, Vijayawada - 520 007",SCA_PDF,2026-11-09
+SCA03,SCA,"Assam State Development Corporation for SCs Ltd.",ASCDC,"Assam","Swahid Dilip Hozori Path, Sarumotoria, Dispur, Guwahati - 781 006",SCA_PDF,2026-11-09
+SCA04,SCA,"Bihar State SCs Co-operative Development Corporation Ltd.",BSSCCDC,"Bihar","RN-212, Officers Colony (Block-A), Bailey Road, Patna - 800 001",SCA_PDF,2026-11-09
+SCA05,SCA,"Chandigarh SCs, BCs & Minorities Financial & Development Corporation Ltd.",CSCFDC,"Chandigarh","3rd Floor, Additional Town Hall Building, Sector-17-C, Chandigarh - 160 017",SCA_PDF,2026-11-09
+SCA06,SCA,"Chhatisgarh State Antavasayee Sahkari Fin. & Dev. Corpn.",CGSCFDC,"Chhattisgarh","4th Floor, Business Complex, Chhattisgarh Housing Board Bhawan, Naya Raipur - 492101",SCA_PDF,2026-11-09
+SCA07,SCA,"Dadra & Nagar Haveli, Daman & Diu SCs/STs/OBCs & Minorities Financial & Development Corporation",DNDSFDC,"Dadra & Nagar Haveli, Daman & Diu","Ground Floor, Right Wing, New Collectorate Building, Near Electricity Department, Opp. 66 KVA SubStation, 66 KVA Road, Silvassa - 396 230",SCA_PDF,2026-11-09
+SCA08,SCA,"Delhi SC/ST/OBC/Minorities & Handicapped Financial & Development Corporation",DSFDC,"Delhi","Ambedkar Bhawan, Sector-16 (Opp. Sector-11), Rohini, Delhi - 110 085",SCA_PDF,2026-11-09
+SCA09,SCA,"Gujarat SCs Development Corporation",GSCDC,"Gujarat","Dr Jivraj Mehta Bhawan, Block-10, II Floor, Old Sachivalaya, Gandhinagar - 382 010",SCA_PDF,2026-11-09
+SCA10,SCA,"Dr. Ambedkar Antyodaya Vikas Nigam (S.C.)",DAAVN,"Gujarat","Karmayogi Bhavan, Block No. 2, D-2 Wing, 4th Floor, Sector-10/B, Gandhinagar, Gujarat",SCA_PDF,2026-11-09
+SCA11,SCA,"Goa State SCs & OBCs Finance and Development Corporation Ltd.",GSCOBCDC,"Goa","4th Floor, Patto Centre, Near K.T.C. Bus Stand, Panaji - 403 001",SCA_PDF,2026-11-09
+SCA12,SCA,"Haryana SCs Fin. and Development Corporation Ltd.",HSCDC,"Haryana","SCO-2427-28, Sector 22-C, Chandigarh - 160 022",SCA_PDF,2026-11-09
+SCA13,SCA,"Himachal Pradesh SCs & STs Development Corporation",HPSCSTDC,"Himachal Pradesh","Kalyan Bhawan, Near Ambusha Resort, Solan - 173212",SCA_PDF,2026-11-09
+SCA14,SCA,"Jharkhand State Scheduled Castes Cooperative Development Corporation",JSCDC,"Jharkhand","Kalyan Complex, 3rd Floor, Balihar Road, Morabadi, Ranchi - 834008",SCA_PDF,2026-11-09
+SCA15,SCA,"J&K SCs, STs & OBCs Dev. Corpn. Ltd.",JKSCSTBCDC,"Jammu & Kashmir","Exchange Road, Near Red Cross Office, Srinagar - 190 001 (May to October); 135-A, Last Morh, Gandhi Nagar, Jammu - 180 004 (November to April)",SCA_PDF,2026-11-09
+SCA16,SCA,"Dr B. R. Ambedkar Development Corporation Ltd.",DBRADC,"Karnataka","9th & 10th Floor, Visheshwariah Mini Tower, Dr Ambedkar Veedhi, Bengaluru - 560 001",SCA_PDF,2026-11-09
+SCA17,SCA,"Kerala State Development Corporation for SCs & STs Ltd.",KSDC,"Kerala","Town Hall Road, Thrissur - 680 020",SCA_PDF,2026-11-09
+SCA18,SCA,"Kerala State Women's Development Corporation",KSWDC,"Kerala","1st Floor, Transport Bhavan, KSRTC Building, East Fort, Attakulangara - 695023",SCA_PDF,2026-11-09
+SCA19,SCA,"MP State Cooperative SC Finance & Development Corporation",MPSCFDC,"Madhya Pradesh","Rajiv Gandhi Bhawan, 35, Shyamala Hills, Bhopal - 462 011",SCA_PDF,2026-11-09
+SCA20,SCA,"Mahatma Phule BCs Development Corporation Ltd.",MPBCDC,"Maharashtra","1-N, Supreme Shopping Centre, Gulmohar Cross Road No.9, J.V.P.D. Scheme, Juhu, Mumbai - 400 049",SCA_PDF,2026-11-09
+SCA21,SCA,"Sahityaratna Lokshahir Annabhau Sathe Development Corporation Ltd.",SLASDC,"Maharashtra","New Administration Building No.2, 3rd Floor, Ramkrushna Chemburkar Marg, Chembur (E), Mumbai - 400 071",SCA_PDF,2026-11-09
+SCA22,SCA,"Sant Rohidas Leather Industries & Charmakar Development Corporation",LIDCOM,"Maharashtra","Bombay Life Building, 5th Floor, 45, Veer Nariman Road, Mumbai - 400 001",SCA_PDF,2026-11-09
+SCA23,SCA,"Manipur Tribal Development Corporation Ltd.",MTDC,"Manipur","Lamphelpat, Imphal - 795 004",SCA_PDF,2026-11-09
+SCA24,SCA,"Manipur SCs & STs Cooperative Dev. Bank",MSTCB,"Manipur","Nambun Long, Stadium Road, Imphal East - 795001",SCA_PDF,2026-11-09
+SCA25,SCA,"Meghalaya Cooperative Apex Bank Ltd.",MCAB,"Meghalaya","M.G. Road, Kutchery, Shillong - 793 001",SCA_PDF,2026-11-09
+SCA26,SCA,"Mizoram Urban Cooperative Development Bank Ltd.",MUCO Bank,"Mizoram","Lawlsawmiliani Building (Top Floor), Zarkawt, Aizawl - 796 001",SCA_PDF,2026-11-09
+SCA27,SCA,"Mizoram Khadi & Village Industries Board",MKVIB,"Mizoram","Zorun, Zarkawt, Aizawl - 796 007",SCA_PDF,2026-11-09
+SCA28,SCA,"Odisha SCs & STs Dev. Finance Co-op. Corpn. Ltd.",OSFDC,"Odisha","Lewis Road, Bhubaneshwar - 751 014",SCA_PDF,2026-11-09
+SCA29,SCA,"Puducherry Adi Dravidar Dev. Corpn. Ltd.",PADCO,"Puducherry","III Floor, Directorate of Adi Dravidar Welfare Department, Thattanchavady, Puducherry - 605 009",SCA_PDF,2026-11-09
+SCA30,SCA,"Punjab Scheduled Castes Land Development & Finance Corporation",PSCLDFC,"Punjab","SCO No.101-102-103, Sector 17-C, Chandigarh - 160 017",SCA_PDF,2026-11-09
+SCA31,SCA,"Rajasthan SCs & STs Fin. & Dev. Co-op. Corporation Ltd.",RSCDC,"Rajasthan","III Floor, Central Block, Nehru Sahakar Bhawan, Bhawani Singh Marg, Jaipur - 302005",SCA_PDF,2026-11-09
+SCA32,SCA,"Sikkim Scheduled Castes Scheduled Tribes & Backward Classes Development Corporation",SSCSTBCDC,"Sikkim","Bhanupath, Gangtok - 737 101",SCA_PDF,2026-11-09
+SCA33,SCA,"Tamil Nadu Adi Dravidar Housing & Development Corporation Ltd.",TAHDCO,"Tamil Nadu","No.31, Cenotaph Road, 2nd Lane, Teynamtet, Chennai - 600 018",SCA_PDF,2026-11-09
+SCA34,SCA,"Tripura Scheduled Castes Co-op. Devp. Corpn. Ltd.",TSCDC,"Tripura","Krishna Nagar P.O. Lake Chomubani, Agartala - 799 001",SCA_PDF,2026-11-09
+SCA35,SCA,"Uttarakhand Bahu-udeshiya Vitta Evam Vikas Nigam",UBVEVN,"Uttarakhand","Janjati Directorate, New Building, Bhagat Singh Clolony (Adhoiwala), Dehradun - 248 001",SCA_PDF,2026-11-09
+SCA36,SCA,"UP Sahkari Gram Vikas Bank Ltd.",,"Uttar Pradesh","10, Mall Avenue, Lucknow, Uttar Pradesh - 226001",SCA_PDF,2026-11-09
+SCA37,SCA,"UP Scheduled Castes Finance & Dev. Corpn. Ltd.",UPSCFDC,"Uttar Pradesh","B-912, Sector-C, Mahanagar, Lucknow - 226 006",SCA_PDF,2026-11-09
+SCA38,SCA,"West Bengal SCs, STs & OBC Development & Finance Corporation",WBSCSTOBCDFC,"West Bengal","CF 217/A/1 Salt Lake, Sector-I (Mangolic Building), Kolkata - 700 064",SCA_PDF,2026-11-09
+PSB01,PSB,"Indian Overseas Bank",,"Tamil Nadu","Central Office, 763, Anna Salai, Chennai, Tamil Nadu - 600 002",PSB_PDF,2026-11-09
+PSB02,PSB,"Bank of Baroda",,"Gujarat","Baroda Bhavan, 7th Floor, R.C. Dutt Road, Vadodara - 390 007",PSB_PDF,2026-11-09
+PSB03,PSB,"Canara Bank",,"Karnataka","Head Office, 112, J.C. Road, Bengaluru - 560 002",PSB_PDF,2026-11-09
+PSB04,PSB,"Punjab National Bank",,"Delhi","Plot No.-4, Sector 10, Dwarka, New Delhi - 110 075",PSB_PDF,2026-11-09
+PSB05,PSB,"Punjab & Sind Bank",,"Delhi","Priority Sector Advance Department, 5th Floor, 21 Rajendra Place, New Delhi - 110 008",PSB_PDF,2026-11-09
+PSB06,PSB,"Union Bank of India",,"Maharashtra","Rural & Agri Business Department, Central Office, Union Bank Bhavan, Nariman Point, Mumbai - 400 (pin incomplete in source)",PSB_PDF,2026-11-09
+PSB07,PSB,"Indian Bank",,"Tamil Nadu","Corporate Office, No.254-260, Avvai Shanmungam Salai, Gowdi Mutt Road, Royapetta, Chennai - 600 014",PSB_PDF,2026-11-09
+PSB08,PSB,"Bank of Maharashtra",,"Maharashtra","Head Office Lok Mangal, 1501, Shivajinagar, Pune - 411005",PSB_PDF,2026-11-09
+PSB09,PSB,"Bank of India",,"Maharashtra","Bandra Kurla Complex, Bandra (East), Mumbai - 400051",PSB_PDF,2026-11-09
+PSB10,PSB,"Central Bank of India",,"Maharashtra","Chandermukhi Bldg., Nariman Point, Mumbai - 400 021",PSB_PDF,2026-11-09
+PSB11,PSB,"UCO Bank",,"West Bengal","No 3&4, DD Block, Sector-1, Bidhannagar, Kolkata - 700064",PSB_PDF,2026-11-09
+RRB01,RRB,"Bihar Gramin Bank",,"Bihar","Shri Vishnu Commercial Complex, NH-30, New Bypass, Near Bp Highway Services Petrol Pump, Asochak, Patna - 800016",RRB_PDF,2026-11-09
+RRB02,RRB,"Maharashtra Gramin Bank",,"Maharashtra","Plot No.35, Jeewan Shri Town Centre, CIDCO, Aurangabad - 431 003",RRB_PDF,2026-11-09
+RRB03,RRB,"Jharkhand Gramin Bank",,"Jharkhand","Zila Parishad Market Complex, 3rd Floor, Kutchery Road, Ranchi - 834001",RRB_PDF,2026-11-09
+RRB04,RRB,"Haryana Gramin Bank",,"Haryana","Near Bajrang Bhawan, Delhi Road, Rohtak - 124 001",RRB_PDF,2026-11-09
+RRB05,RRB,"Gujarat Gramin Bank",,"Gujarat","Head Office, Sky Line Building, 2nd Floor, Near Shital Guest House, Bharuch - 392001",RRB_PDF,2026-11-09
+RRB06,RRB,"Telangana Grameena Bank",,"Telangana","H.No.2-1-520, 2nd Floor, Vijaya Sri Sai Celestia, Street No.9, Shankermut Road, Nallakunta, Hyderabad - 500044",RRB_PDF,2026-11-09
+RRB07,RRB,"Rajasthan Gramin Bank",,"Rajasthan","Tulsi Tower, 9th B Road, Sardarpura, Jodhpur - 342003",RRB_PDF,2026-11-09
+RRB08,RRB,"Uttar Pradesh Gramin Bank",,"Uttar Pradesh","2nd & 3rd Floor, NBCC Commercial Complex, Vardan Khand, Gomti Nagar Extension, Lucknow - 229001",RRB_PDF,2026-11-09
+RRB09,RRB,"Kerala Grameena Bank",,"Kerala","PB No.10, KGpB Towers, AK Road, Uphill, Malappuram - 676505",RRB_PDF,2026-11-09
+RRB10,RRB,"Uttarakhand Gramin Bank",,"Uttarakhand","18-New Road, Dehradun, Uttarakhand",RRB_PDF,2026-11-09
+RRB11,RRB,"Tripura Gramin Bank",,"Tripura","H.O. Airport Road, PO Abhaynagar, Agartala - 799 005",RRB_PDF,2026-11-09
+RRB12,RRB,"Karnataka Grameena Bank",,"Karnataka","Head Office, CA 20, Vijayanagar IInd Stage, Musure - 570017",RRB_PDF,2026-11-09
+RRB13,RRB,"Assam Gramin Bank",,"Assam","HO, G.S. Road, Bhangagarh, Guwahati - 781 005",RRB_PDF,2026-11-09
+RRB14,RRB,"Andhra Pradesh Grameena Bank",,"Andhra Pradesh","4th Floor, Raghu Mansion, 4-1, Broadipet, Guntur - 522 002",RRB_PDF,2026-11-09
+RRB15,RRB,"Punjab Gramin Bank",,"Punjab","HO Jalandhar Road, Kapurthala - 144 601",RRB_PDF,2026-11-09
+RRB16,RRB,"Tamil Nadu Grama Bank",,"Tamil Nadu","6, Yercaud Road, Hasthasmpatti, Salem - 636007",RRB_PDF,2026-11-09
+RRB17,RRB,"Madhya Pradesh Gramin Bank",,"Madhya Pradesh","C21, Business Park, C21 Square opposite Hotel Radisson Blue, MR-10, Indore - 452010",RRB_PDF,2026-11-09
+RRB18,RRB,"Himachal Pradesh Gramin Bank",,"Himachal Pradesh","Jail Road (Panjethi), PO Talyahar, Mandi - 175001",RRB_PDF,2026-11-09
+RRB19,RRB,"Puducherry Grama Bank",,"Puducherry","No.441, Mahatma Gandhi Road, Muthialpet, Puducherry - 605 003",RRB_PDF,2026-11-09
+RRB20,RRB,"West Bengal Gramin Bank",,"West Bengal","Natabar Paul Road, Chatterjee Para More, Tikiapara, Howrah - 711101",RRB_PDF,2026-11-09
+RRB21,RRB,"Chhattisgarh Gramin Bank",,"Chhattisgarh","Corporate Office Raipur, Plot No.-47, Sector-24, Atal Nagar, Nava Raipur - 492013",RRB_PDF,2026-11-09
+RRB22,RRB,"Manipur Rural Bank",,"Manipur","Keishampat, Keisham Leikai, Imphal - 795001",RRB_PDF,2026-11-09
+RRB23,RRB,"Meghalaya Rural Bank",,"Meghalaya","M.T.C Building, 2nd Floor, Police Bazar, Shillong - 793001",RRB_PDF,2026-11-09
+RRB24,RRB,"J&K Grameen Bank",,"Jammu & Kashmir","Near Fruit Complex, Narwal, Jammu - 180006",RRB_PDF,2026-11-09
+RRB25,RRB,"Odisha Grameen Bank",,"Odisha","7R25-H75, Jagamara, Sunderpada Road, Gandamuda, Pokhhariput, Bhubaneshwar - 751030",RRB_PDF,2026-11-09
+RRB26,RRB,"Mizoram Rural Bank",,"Mizoram","MINECO, Khatla, Aizawl - 796001",RRB_PDF,2026-11-09
+MFI01,NBFC-MFI,"Anik Financial Services Private Limited",,"Maharashtra","Regd. Office: Sahyadri Building, Behind Amitesh Hotel, Ambajogai Roa, Sai Naka, Latur - 413 512",MFI_PDF,2026-11-09
+MFI02,NBFC-MFI,"Grameen Development & Finance Private Limited",,"Assam","Dubjent, Kulshi Road, Chhaygaon, Kamrup, Assam - 781 124",MFI_PDF,2026-11-09
+MFI03,NBFC-MFI,"ASA International Microfinance Ltd.",,"West Bengal","Victoria Park, 4th Floor, GN-37/2, Sector-V, Salt Lake City, Kolkata - 700 091",MFI_PDF,2026-11-09
+MFI04,NBFC-MFI,"Midland Microfin Ltd.",,"Punjab","The Axis, Plot No.1, R.B.Badri Dass Colony, BMC Chowk, G.T.Road, Jalandhar - 144 001",MFI_PDF,2026-11-09
+MFI05,NBFC-MFI,"Satin Creditcare Network Ltd.",,"Haryana","Plot No.492, Udyog Vihar, Phase-III, Gurugram - 122 016",MFI_PDF,2026-11-09
+MFI06,NBFC-MFI,"Pahal Financial Services Pvt. Ltd.",,"Gujarat","7th Floor, Binori B Square-2, Opp. Hathising Ni Vadi, Ambli-Iscon Road, Ahmedabad - 380 054",MFI_PDF,2026-11-09
+MFI07,NBFC-MFI,"Vector Finance Pvt Ltd",,"Odisha","RO-K7/110, Ground Floor, Klinga Vihar, P.S. Khandagiri, Bhubaneswar - 751029",MFI_PDF,2026-11-09
+COB01,Cooperative Bank,"Shri Mahila Sewa Sahakari Bank Ltd.",,"Gujarat","109, Sakar-II, Opp. Town Hall, Ellisbridge, Ahmedabad - 38006",COB_PDF,2026-11-09
+COB02,Cooperative Bank,"Konoklata Mahila Urban Cooperative Bank",,"Assam","",COB_PDF,2026-11-09
+OTH01,Other,"North Eastern Development Finance Corporation Ltd. (NEDFi)",NEDFi,"Assam","Tea Auction Center, GS Rd, Sanket Vihar, Dispur, Opposite, Guwahati - 781006",OTH_PDF,2026-11-09
+OTH02,Other,"Jharkhand Silk Textile & Handicraft Development Corporation Ltd.",JHARCRAFT,"Jharkhand","Jharcraft, DIC Campus, Ratu Road, Ranchi - 834001",OTH_PDF,2026-11-09
+OTH03,Other,"Small Industries Development Bank of India",SIDBI,"Uttar Pradesh","SIDBI Tower, 15, Ashok Marg, Lucknow - 226001",OTH_PDF,2026-11-09
+SFB01,Small Finance Bank,"AU Small Finance Bank",,"Multi-state","",SFB_PDF,2026-11-09
+SFB02,Small Finance Bank,"Ujjivan Small Finance Bank",,"Multi-state","",SFB_PDF,2026-11-09
+CSO01,Cooperative Society,"Streenidhi, Telangana",,"Telangana","401 & 402, 4th Floor, My Home Sarovar Plaza, Secretariat Road, Ambedkar Colony, Saifabad, Hyderabad - 500004",CSO_PDF,2026-11-09
+CSO02,Cooperative Society,"Streenidhi AP",,"Andhra Pradesh","2nd Floor, NTR Administrative Block, RTC Complex, Vijayawada - 520013",CSO_PDF,2026-11-09

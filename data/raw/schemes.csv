@@ -1,0 +1,6 @@
+scheme_id,name,implemented_through,project_cost_min_inr,project_cost_max_inr,max_loan_pct_of_cost,max_loan_amount_inr,interest_to_channel_partner_pct,interest_to_beneficiary_pct,max_repayment_years,moratorium_months,moratorium_note,income_cap_inr,source_key,as_on,verified
+MFS,Micro Finance Scheme,"SCAs / PSBs / RRBs",0,140000,90,125000,2.5,6.5,3,3,"",500000,NSFDC_ANNEXURE,2026-02-28,1
+TL,Term Loan,"SCAs / PSBs / RRBs",140001,5000000,90,4500000,4,8,7,6,"12 months for plantation and construction activities",500000,NSFDC_ANNEXURE,2026-02-28,1
+ELS,Educational Loan Scheme (Domestic and Abroad),"SCAs / PSBs / RRBs",,,90,4000000,2.5,6.5,12,,"Loan is up to Rs 40 lakh or 90% of course fee, whichever is less. Moratorium is course period plus 1 year where repayment has not started; up to 6 months where loan is disbursed and repayment started. Repayment up to 12 years where repayment has not started; up to 10 years where repayment has started",500000,NSFDC_ANNEXURE,2026-02-28,1
+AMY,Aajeevika Microfinance Yojana,"NBFC-MFIs",0,140000,,125000,5,15,3,3,"",500000,NSFDC_ANNEXURE,2026-02-28,1
+UNY,Udyam Nidhi Yojana,"Co-operative Societies / Co-operative Banks",0,500000,,450000,5,13,5,3,"",500000,NSFDC_ANNEXURE,2026-02-28,1

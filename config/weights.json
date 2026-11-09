@@ -1,0 +1,6 @@
+{
+  "interestRateWeight": 0.6,
+  "moratoriumWeight": 0.4,
+  "maxLoanWeight": 0.3,
+  "repaymentPeriodWeight": 0.2
+}
