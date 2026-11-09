@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-11-09T16:37:17.524Z",
+  "datasets": {
+    "pincodes": {
+      "original_row_count": 165627,
+      "unique_pincodes_count": 19586,
+      "pincodes_with_coordinates": 19550,
+      "missing_or_invalid_coordinates_rows": 14570,
+      "output_file": "data/processed/pincodes_clean.csv"
+    },
+    "rbi_branches": {
+      "lines_scanned": 16975,
+      "branches_filtered_and_saved": 15000,
+      "invalid_coordinates_skipped": 0,
+      "disclaimer": "RBI banking branches filtered by bank category; inclusion does not constitute official NSFDC accreditation.",
+      "output_file": "data/processed/partner_branches.csv"
+    },
+    "pincode_centroids": {
+      "features_processed": 19312,
+      "output_file": "data/processed/pincode_centroids.csv"
+    }
+  }
+}

@@ -1,12 +1,13 @@
 import React, { useEffect, useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import { useLanguage } from '../context/LanguageContext.jsx';
 
 const Home = () => {
   const navigate = useNavigate();
+  const { t } = useLanguage();
   const [stats, setStats] = useState({ schemesCount: 5, partnersCount: 91, statesCount: 36 });
 
   useEffect(() => {
-    // Attempt to load live counts from backend
     fetch('/api/schemes')
       .then((res) => res.json())
       .then((data) => {
@@ -17,7 +18,7 @@ const Home = () => {
     fetch('/api/partners')
       .then((res) => res.json())
       .then((data) => {
-        if (Array.isArray(data)) setStats((prev) => ({ ...prev, partnersCount: data.length }));
+        if (data && data.total) setStats((prev) => ({ ...prev, partnersCount: data.total }));
       })
       .catch(() => {});
 
@@ -34,18 +35,21 @@ const Home = () => {
       {/* Hero Section */}
       <section className="hero">
         <div className="hero-content">
-          <span className="badge badge-accent">National Welfare Portal</span>
-          <h1 className="hero-title">AI‑Driven Scheme Matcher</h1>
-          <p className="hero-description">
-            Empowering Scheduled Caste entrepreneurs, youth, and artisans by matching your profile with subsidized government credit, educational loans, and microfinance schemes.
-          </p>
+          <span className="badge badge-accent" style={{ background: 'rgba(255,255,255,0.2)', color: '#ffffff', border: '1px solid rgba(255,255,255,0.4)' }}>
+            {t('heroBadge')}
+          </span>
+          <h1 className="hero-title">{t('heroTitle')}</h1>
+          <p className="hero-description">{t('heroSubtitle')}</p>
 
           <div className="hero-cta-group">
             <button className="btn-primary btn-large" onClick={() => navigate('/questionnaire')}>
-              🚀 Find Matching Schemes
+              {t('btnFindScheme')}
             </button>
             <button className="btn-secondary btn-large" onClick={() => navigate('/EMICalculator')}>
-              🧮 Loan EMI Calculator
+              {t('btnCalculator')}
+            </button>
+            <button className="btn-secondary btn-large" onClick={() => navigate('/partners')}>
+              {t('btnLocatePartners')}
             </button>
           </div>
         </div>
@@ -54,68 +58,104 @@ const Home = () => {
       {/* Stats Counter Bar */}
       <section className="stats-bar">
         <div className="stat-item">
-          <span className="stat-number">{stats.schemesCount}+</span>
-          <span className="stat-label">Government Schemes</span>
+          <span className="stat-number">{stats.schemesCount}</span>
+          <span className="stat-label">{t('statSchemes')}</span>
         </div>
         <div className="stat-divider"></div>
         <div className="stat-item">
           <span className="stat-number">6.5%</span>
-          <span className="stat-label">Concessional Rates From</span>
+          <span className="stat-label">{t('statConcession')}</span>
         </div>
         <div className="stat-divider"></div>
         <div className="stat-item">
           <span className="stat-number">{stats.partnersCount}+</span>
-          <span className="stat-label">Channel Partners & Banks</span>
+          <span className="stat-label">{t('statPartners')}</span>
         </div>
         <div className="stat-divider"></div>
         <div className="stat-item">
           <span className="stat-number">{stats.statesCount}</span>
-          <span className="stat-label">States & UTs Covered</span>
+          <span className="stat-label">{t('statCoverage')}</span>
         </div>
       </section>
 
-      {/* Quick Access Grid */}
+      {/* Feature Navigation Cards */}
       <section className="container mt-xl">
-        <h2 className="section-title text-center">Platform Capabilities</h2>
+        <h2 className="section-title text-center">Comprehensive Public Service Tools</h2>
         <p className="section-subtitle text-center">
-          Comprehensive tools to evaluate eligibility, estimate monthly payments, and locate implementation agencies.
+          Evaluate eligibility, calculate repayments, locate regional partners, and generate documentation.
         </p>
 
         <div className="features-grid mt-lg">
           <div className="feature-card" onClick={() => navigate('/questionnaire')}>
             <div className="feature-icon">🎯</div>
-            <h3>Intelligent Eligibility Engine</h3>
+            <h3>Intelligent Scheme Matching</h3>
             <p>
-              Answer a few questions about your business or study requirements, project cost, and annual income to receive an instant, ranked list of applicable schemes.
+              Complete a 3-step assessment of your income, project budget, and loan requirements to receive ranked, explainable recommendations.
             </p>
             <span className="card-link">Check Eligibility →</span>
           </div>
 
+          <div className="feature-card" onClick={() => navigate('/compare')}>
+            <div className="feature-icon">⚖️</div>
+            <h3>Scheme Comparison Matrix</h3>
+            <p>
+              Compare interest rates, financing caps, moratorium periods, and tenor terms across all 5 NSFDC credit programs side-by-side.
+            </p>
+            <span className="card-link">Compare Schemes →</span>
+          </div>
+
           <div className="feature-card" onClick={() => navigate('/EMICalculator')}>
             <div className="feature-icon">🧮</div>
-            <h3>Financial EMI Calculator</h3>
+            <h3>Financial & Moratorium Calculator</h3>
             <p>
-              Simulate monthly EMIs, moratorium benefits, and total interest obligations with customized interest rates and repayment tenors.
+              Simulate monthly EMIs with grace periods, view total interest amortization, and inspect month-by-month repayment schedules.
             </p>
-            <span className="card-link">Calculate EMI →</span>
+            <span className="card-link">Simulate Loan EMI →</span>
           </div>
 
           <div className="feature-card" onClick={() => navigate('/partners')}>
             <div className="feature-icon">📍</div>
-            <h3>Channel Partner Locator</h3>
+            <h3>Geospatial Partner Locator</h3>
             <p>
-              Locate nearby State Channelising Agencies (SCAs), Public Sector Banks, and Regional Rural Banks authorized to disburse funds.
+              Interactive Leaflet map powered by over 19,000 PIN codes to locate nearby State Channelising Agencies (SCAs) and banks.
             </p>
-            <span className="card-link">Explore Partners →</span>
+            <span className="card-link">Find Nearest Branches →</span>
           </div>
 
-          <div className="feature-card" onClick={() => navigate('/schemes')}>
-            <div className="feature-icon">📜</div>
-            <h3>Browse Schemes Catalog</h3>
+          <div className="feature-card" onClick={() => navigate('/documents')}>
+            <div className="feature-icon">📑</div>
+            <h3>Document Checklist Generator</h3>
             <p>
-              Explore detailed parameters including Micro Finance Scheme (MFS), Term Loans (TL), Educational Loan Schemes (ELS), and Aajeevika Microfinance.
+              Generate an interactive, printable checklist of required certificates and project reports for business or education loans.
             </p>
-            <span className="card-link">View Catalog →</span>
+            <span className="card-link">Generate Checklist →</span>
+          </div>
+
+          <div className="feature-card" onClick={() => navigate('/assistant')}>
+            <div className="feature-icon">💬</div>
+            <h3>Scheme Knowledge Assistant</h3>
+            <p>
+              Ask questions about lending norms, interest concessions, documents, and application steps answered with verified policy facts.
+            </p>
+            <span className="card-link">Chat with Assistant →</span>
+          </div>
+
+          <div className="feature-card" onClick={() => navigate('/guide')}>
+            <div className="feature-icon">📘</div>
+            <h3>Citizen Application Roadmap</h3>
+            <p>
+              Step-by-step guidance on self-assessment, document preparation, approaching channel partners, and loan sanctioning.
+            </p>
+            <span className="card-link">Read Application Guide →</span>
+          </div>
+
+          <div className="feature-card" onClick={() => navigate('/transparency')}>
+            <div className="feature-icon">📊</div>
+            <h3>Data Transparency Registry</h3>
+            <p>
+              Complete provenance, license terms, dataset metrics, and ethical disclosures regarding simulated and historical baseline data.
+            </p>
+            <span className="card-link">Review Transparency →</span>
           </div>
         </div>
       </section>

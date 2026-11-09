@@ -14,15 +14,15 @@ const PURPOSE_SCHEME_MAP = {
   sanitation: ['MFS', 'AMY', 'TL'],
 };
 
-// POST /api/match – receive questionnaire payload, evaluate all schemes
+// POST /api/match – evaluate eligibility and calculate transparent scores
 router.post('/', (req, res) => {
-  const { income, projectCost, loanAmount, purpose } = req.body;
+  const { income, projectCost, loanAmount, purpose, category } = req.body;
   if (
     income == null ||
     projectCost == null ||
     loanAmount == null
   ) {
-    return res.status(400).json({ error: 'Missing required fields: income, projectCost, loanAmount' });
+    return res.status(400).json({ error: 'Missing required parameters: income, projectCost, loanAmount' });
   }
 
   const numIncome = Number(income);
@@ -37,7 +37,7 @@ router.post('/', (req, res) => {
   const allowedCodes = PURPOSE_SCHEME_MAP[normalizedPurpose];
 
   for (const scheme of schemes) {
-    // If user specified an explicit category, check if this scheme is applicable
+    // If user specified an explicit category, filter out schemes not relevant to purpose
     if (allowedCodes && !allowedCodes.includes(scheme.code)) {
       continue;
     }
@@ -46,28 +46,29 @@ router.post('/', (req, res) => {
       income: numIncome,
       projectCost: numProjectCost,
       loanAmount: numLoanAmount,
-      scheme
+      scheme,
+      category: category || 'SC',
+      purpose: normalizedPurpose,
     });
 
-    if (eligibility.eligible) {
-      const score = scoreScheme(scheme);
-      results.push({
-        scheme,
-        maxLoan: eligibility.maxLoan,
-        score,
-        reasons: []
-      });
-    } else {
-      results.push({
-        scheme,
-        maxLoan: eligibility.maxLoan,
-        score: 0,
-        reasons: eligibility.reasons
-      });
-    }
+    const scoringResult = scoreScheme(scheme, {
+      loanAmount: numLoanAmount,
+      maxLoan: eligibility.maxLoan,
+      eligible: eligibility.eligible,
+      purpose: normalizedPurpose,
+    });
+
+    results.push({
+      scheme,
+      maxLoan: eligibility.maxLoan,
+      score: scoringResult.totalScore,
+      scoreBreakdown: scoringResult.breakdown,
+      reasons: eligibility.reasons,
+      eligibleReasons: eligibility.eligibleReasons,
+    });
   }
 
-  // Sort eligible schemes by descending score
+  // Sort eligible schemes strictly by descending score
   const eligible = results
     .filter((r) => r.reasons.length === 0)
     .sort((a, b) => b.score - a.score);

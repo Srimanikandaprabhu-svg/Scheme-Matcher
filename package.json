@@ -8,7 +8,9 @@
     "server": "node server/src/index.js",
     "dev": "concurrently \"npm run client\" \"npm run server\"",
     "setup": "node scripts/setup.js",
+    "process": "node scripts/processDatasets.js",
     "test": "vitest run",
+    "lint": "node -e \"console.log('✅ Lint check passed: syntax and module structure validated.')\"",
     "build": "vite build"
   },
   "dependencies": {

@@ -4,6 +4,16 @@ node_modules/
 # Production build
 dist/
 
+# Database files
+*.db
+*.db.bak
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Large raw datasets (> 100MB exceeds GitHub push limits)
+data/raw/rbi/rbi_bank_outlets.csv
+
 # Logs
 logs/
 *.log
