@@ -1,0 +1,7 @@
+node_modules
+.git
+*.db.bak
+data/raw/geo
+data/raw/rbi
+docs
+tests

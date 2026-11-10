@@ -34,7 +34,7 @@ app.use('/api/transparency', transparencyRouter);
 
 // Serve frontend static files if built
 const distPath = path.resolve(__dirname, '../../dist');
-if (fs.existsSync(distPath)) {
+if (!process.env.VERCEL && fs.existsSync(distPath)) {
   app.use(express.static(distPath));
   app.get('*', (req, res, next) => {
     if (req.path.startsWith('/api')) {
@@ -80,6 +80,8 @@ function startServer(port) {
   });
 }
 
-startServer(DEFAULT_PORT);
+if (!process.env.VERCEL) {
+  startServer(DEFAULT_PORT);
+}
 
 export default app;
