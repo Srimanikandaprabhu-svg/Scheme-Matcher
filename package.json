@@ -10,6 +10,7 @@
     "setup": "node scripts/setup.js",
     "process": "node scripts/processDatasets.js",
     "test": "vitest run",
+    "clean-port": "powershell -Command \"Get-NetTCPConnection -LocalPort 4000,4001,3000 -ErrorAction SilentlyContinue | ForEach-Object { Stop-Process -Id $_.OwningProcess -Force -ErrorAction SilentlyContinue }\"",
     "lint": "node -e \"console.log('✅ Lint check passed: syntax and module structure validated.')\"",
     "build": "vite build"
   },

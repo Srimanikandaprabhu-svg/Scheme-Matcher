@@ -47,9 +47,39 @@ if (fs.existsSync(distPath)) {
 // Global error handler
 app.use(errorHandler);
 
-const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => {
-  console.log(`Server listening on http://localhost:${PORT}`);
-});
+const DEFAULT_PORT = process.env.PORT || 4000;
+
+function startServer(port) {
+  const server = app.listen(port, () => {
+    console.log(`🚀 Server listening on http://localhost:${port}`);
+  });
+
+  server.on('error', (err) => {
+    if (err.code === 'EADDRINUSE') {
+      const nextPort = Number(port) + 1;
+      console.warn(`⚠️ Port ${port} is already in use. Automatically falling back to http://localhost:${nextPort}...`);
+      startServer(nextPort);
+    } else {
+      console.error('Server error:', err);
+    }
+  });
+
+  // Graceful shutdown on Ctrl+C / SIGINT
+  process.on('SIGINT', () => {
+    console.log('\n🛑 Gracefully stopping server and releasing port...');
+    server.close(() => {
+      console.log('✅ Port released. Exited cleanly.');
+      process.exit(0);
+    });
+  });
+
+  process.on('SIGTERM', () => {
+    server.close(() => {
+      process.exit(0);
+    });
+  });
+}
+
+startServer(DEFAULT_PORT);
 
 export default app;
